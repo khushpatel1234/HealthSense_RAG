@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "query": "Does homeopathy effectively treat influenza?",
+    "context_better": [
+      {
+        "title": "Systematic review: Homeopathy vs placebo for influenza",
+        "abstract": "Meta-analysis of 7 RCTs found no significant difference between homeopathic oscillococcinum and placebo in flu symptom duration or severity. Effect sizes were negligible.",
+        "source": "Cochrane Database, 2015"
+      },
+      {
+        "title": "Clinical trials of homeopathic flu remedies",
+        "abstract": "Double-blind trial with 372 patients showed homeopathic treatment performed equivalent to placebo. No biological mechanism supports efficacy beyond dilution.",
+        "source": "British Medical Journal, 2017"
+      },
+      {
+        "title": "Mechanisms of homeopathic dilution: Scientific perspective",
+        "abstract": "Homeopathic dilutions exceed Avogadro's number, meaning no molecules of original substance remain. Claims of water memory lack reproducible evidence.",
+        "source": "Nature Reviews Drug Discovery, 2018"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "History of homeopathy in 19th century medicine",
+        "abstract": "Homeopathy was developed by Samuel Hahnemann in 1796 based on 'like cures like' principle. It gained popularity in Europe and America during the 1800s.",
+        "source": "Medical History Journal, 2010"
+      },
+      {
+        "title": "Patient satisfaction with alternative medicine",
+        "abstract": "Survey of 500 CAM users found high satisfaction rates with homeopathy. Patients valued longer consultation times and holistic approach.",
+        "source": "Alternative Therapies in Health, 2016"
+      },
+      {
+        "title": "Regulatory status of homeopathic products in EU",
+        "abstract": "EU regulations allow homeopathic products to be sold without proof of efficacy. Products must meet safety standards but not therapeutic claims.",
+        "source": "European Medicines Agency Report, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better directly addresses efficacy with clinical trials and systematic reviews. Context Worse provides historical and regulatory information but doesn't answer whether homeopathy works for flu."
+  },
+  {
+    "id": 2,
+    "query": "Can vitamin C megadoses prevent the common cold?",
+    "context_better": [
+      {
+        "title": "Vitamin C for prevention and treatment of common cold: Cochrane review",
+        "abstract": "Analysis of 29 trials with 11,306 participants found regular vitamin C supplementation did not reduce cold incidence in general population. Modest reduction in duration (8% in adults, 14% in children).",
+        "source": "Cochrane Database, 2013"
+      },
+      {
+        "title": "High-dose vitamin C trials: Efficacy and safety",
+        "abstract": "Megadoses (>2000mg/day) showed no additional benefit over regular doses. High doses may cause gastrointestinal distress. No evidence for cold prevention.",
+        "source": "American Journal of Clinical Nutrition, 2019"
+      },
+      {
+        "title": "Vitamin C pharmacokinetics and saturation",
+        "abstract": "Plasma vitamin C concentration plateaus at 200mg/day intake. Higher doses result in urinary excretion without increased tissue levels.",
+        "source": "Journal of Nutrition, 2020"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Linus Pauling's vitamin C advocacy",
+        "abstract": "Nobel laureate Linus Pauling promoted megadose vitamin C in the 1970s, claiming it prevents colds and cancer. His theories generated public interest but lacked rigorous evidence.",
+        "source": "Scientific American, 2008"
+      },
+      {
+        "title": "Vitamin C content in citrus fruits",
+        "abstract": "Oranges contain 50-70mg vitamin C per 100g. Other sources include strawberries, kiwi, and bell peppers. Most people meet RDA through diet.",
+        "source": "Food Chemistry, 2018"
+      },
+      {
+        "title": "Antioxidant properties of vitamin C",
+        "abstract": "Ascorbic acid acts as reducing agent and free radical scavenger. Important cofactor for collagen synthesis and immune cell function.",
+        "source": "Biochemistry Journal, 2017"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides systematic reviews and trials directly testing cold prevention. Context Worse discusses historical advocacy, food sources, and general biochemistry but doesn't address the efficacy question."
+  },
+  {
+    "id": 3,
+    "query": "Does activated charcoal detoxify the body?",
+    "context_better": [
+      {
+        "title": "Activated charcoal in toxicology: Clinical applications",
+        "abstract": "Charcoal is effective for acute poisoning via gastric binding within 1-2 hours of ingestion. No evidence for systemic detoxification or routine use. Limited to GI tract.",
+        "source": "Toxicology Reports, 2018"
+      },
+      {
+        "title": "Detox products and health claims: Scientific evaluation",
+        "abstract": "Review found no credible evidence that commercial detox products enhance natural detoxification. Liver and kidneys efficiently eliminate toxins without intervention.",
+        "source": "Journal of Human Nutrition and Dietetics, 2019"
+      },
+      {
+        "title": "Activated charcoal: Myths vs evidence",
+        "abstract": "Charcoal does not bind to alcohol, heavy metals in tissues, or metabolic waste. Claims of beauty and wellness benefits lack scientific support.",
+        "source": "American Journal of Emergency Medicine, 2020"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Manufacturing process of activated charcoal",
+        "abstract": "Activated charcoal is produced by heating carbon-rich materials like coconut shells at high temperatures. Process creates porous structure with large surface area.",
+        "source": "Chemical Engineering Journal, 2016"
+      },
+      {
+        "title": "Activated charcoal in water filtration",
+        "abstract": "Charcoal filters effectively remove chlorine, volatile organic compounds, and some pesticides from drinking water. Used in commercial and household filtration.",
+        "source": "Water Research, 2017"
+      },
+      {
+        "title": "Consumer trends in detox products",
+        "abstract": "Market analysis shows growing demand for charcoal-based cosmetics and supplements. Social media influencers promote activated charcoal products for detoxification.",
+        "source": "Marketing Health Services, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better directly addresses detoxification claims with toxicology evidence. Context Worse discusses manufacturing, water filtration, and marketing trends but doesn't evaluate health claims."
+  },
+  {
+    "id": 4,
+    "query": "Can acupuncture treat chronic lower back pain?",
+    "context_better": [
+      {
+        "title": "Acupuncture for chronic pain: Systematic review and meta-analysis",
+        "abstract": "Analysis of 39 trials with 20,827 patients found acupuncture superior to sham acupuncture for chronic pain including back pain. Effect size small but statistically significant.",
+        "source": "Archives of Internal Medicine, 2012"
+      },
+      {
+        "title": "Mechanisms of acupuncture analgesia: Current evidence",
+        "abstract": "Neuroimaging shows acupuncture activates endogenous pain modulation systems. Effects mediated by endorphins, adenosine, and central nervous system pathways.",
+        "source": "Nature Reviews Neuroscience, 2014"
+      },
+      {
+        "title": "Clinical guidelines for acupuncture in low back pain",
+        "abstract": "American College of Physicians recommends acupuncture as noninvasive treatment option for chronic low back pain based on moderate-quality evidence.",
+        "source": "Annals of Internal Medicine, 2017"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Traditional Chinese medicine philosophy",
+        "abstract": "TCM based on concepts of Qi (vital energy) flowing through meridians. Acupuncture developed over 2000 years in China as part of holistic health system.",
+        "source": "Journal of Traditional Medicine, 2015"
+      },
+      {
+        "title": "Acupuncture training and certification",
+        "abstract": "Practitioners require 3-4 years training and national certification exam. Scope of practice varies by jurisdiction. Integration into conventional healthcare increasing.",
+        "source": "Medical Education Review, 2018"
+      },
+      {
+        "title": "Economic cost of chronic back pain",
+        "abstract": "Back pain costs US healthcare system $100 billion annually. Leading cause of disability worldwide. Patients seek diverse treatment options.",
+        "source": "Health Economics, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides clinical trials, mechanism studies, and treatment guidelines. Context Worse discusses philosophy, training, and economics but doesn't address treatment efficacy."
+  },
+  {
+    "id": 5,
+    "query": "Does CBD oil reduce anxiety?",
+    "context_better": [
+      {
+        "title": "Cannabidiol for anxiety disorders: Systematic review",
+        "abstract": "Review of 14 studies found preliminary evidence for CBD reducing anxiety in social anxiety disorder, PTSD, and generalized anxiety. Most studies small with methodological limitations.",
+        "source": "Neurotherapeutics, 2015"
+      },
+      {
+        "title": "CBD and anxiety: Randomized controlled trial",
+        "abstract": "Double-blind study of 57 participants found 300mg CBD reduced anxiety before public speaking test compared to placebo. Effects dose-dependent.",
+        "source": "Brazilian Journal of Psychiatry, 2019"
+      },
+      {
+        "title": "Mechanisms of CBD anxiolytic effects",
+        "abstract": "CBD interacts with serotonin 5-HT1A receptors and may modulate endocannabinoid signaling. Animal studies show reduced fear response. Human trials ongoing.",
+        "source": "Frontiers in Pharmacology, 2018"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Legal status of CBD products in United States",
+        "abstract": "2018 Farm Bill legalized hemp-derived CBD containing <0.3% THC. FDA has not approved CBD for anxiety. Regulation of CBD supplements remains unclear.",
+        "source": "FDA Consumer Update, 2020"
+      },
+      {
+        "title": "CBD market growth and consumer trends",
+        "abstract": "CBD market projected to reach $20 billion by 2024. Consumers purchase CBD for anxiety, pain, sleep. Quality and labeling accuracy concerns persist.",
+        "source": "Hemp Business Journal, 2019"
+      },
+      {
+        "title": "Extraction methods for CBD oil",
+        "abstract": "CBD extracted from hemp using CO2, ethanol, or hydrocarbon methods. Full-spectrum, broad-spectrum, and isolate products available. Extraction method affects purity.",
+        "source": "Journal of Cannabis Research, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides clinical trials and mechanism studies on anxiety effects. Context Worse discusses legal status, market trends, and extraction but doesn't evaluate therapeutic efficacy."
+  },
+  {
+    "id": 6,
+    "query": "Can copper bracelets relieve arthritis symptoms?",
+    "context_better": [
+      {
+        "title": "Copper bracelets for rheumatoid arthritis: Randomized trial",
+        "abstract": "Placebo-controlled study of 65 patients found no difference between copper bracelets and placebo bracelets in pain, stiffness, or function. Serum copper levels unchanged.",
+        "source": "PLoS ONE, 2013"
+      },
+      {
+        "title": "Transdermal copper absorption: Pharmacokinetic study",
+        "abstract": "Skin is effective barrier to copper absorption. Trace amounts absorbed through skin insufficient to affect systemic inflammation or joint pathology.",
+        "source": "Journal of Trace Elements in Medicine, 2016"
+      },
+      {
+        "title": "Mechanisms of arthritis pain: Scientific review",
+        "abstract": "Arthritis pain results from inflammation, cartilage degradation, and nerve sensitization. No plausible mechanism for copper jewelry to affect these processes.",
+        "source": "Nature Reviews Rheumatology, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Historical use of copper in folk medicine",
+        "abstract": "Copper used in traditional remedies for millennia. Ancient Egyptians used copper vessels. Folk belief attributes healing properties to metal contact with skin.",
+        "source": "History of Medicine Quarterly, 2011"
+      },
+      {
+        "title": "Properties of copper metal",
+        "abstract": "Copper is essential trace mineral with antimicrobial properties. Used in medical equipment, water pipes, and electrical wiring. Third most used industrial metal.",
+        "source": "Materials Science Review, 2015"
+      },
+      {
+        "title": "Sales and marketing of copper jewelry",
+        "abstract": "Online retailers sell millions of copper bracelets annually. Marketing emphasizes magnetic properties and energy balance. Customer testimonials prominently featured.",
+        "source": "E-Commerce Trends Report, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides clinical trials and pharmacokinetic data directly testing arthritis claims. Context Worse discusses history, metal properties, and marketing but provides no evidence on therapeutic effects."
+  },
+  {
+    "id": 7,
+    "query": "Does apple cider vinegar help with weight loss?",
+    "context_better": [
+      {
+        "title": "Apple cider vinegar and weight loss: Clinical trial",
+        "abstract": "12-week study of 175 participants found modest weight loss (1-2 kg) with daily vinegar consumption. Effect attributed to reduced calorie intake, not metabolic changes.",
+        "source": "Bioscience, Biotechnology, and Biochemistry, 2009"
+      },
+      {
+        "title": "Acetic acid effects on metabolism: Human study",
+        "abstract": "Vinegar delayed gastric emptying and increased satiety. No significant effect on fat oxidation or thermogenesis. Weight loss minimal without calorie restriction.",
+        "source": "European Journal of Clinical Nutrition, 2014"
+      },
+      {
+        "title": "Apple cider vinegar health claims: Evidence review",
+        "abstract": "Systematic review found insufficient evidence for significant weight loss or metabolic benefits. Side effects include tooth enamel erosion and esophageal irritation.",
+        "source": "Journal of Functional Foods, 2018"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Production methods for apple cider vinegar",
+        "abstract": "ACV produced through two-step fermentation of apple juice. Bacteria convert alcohol to acetic acid. Unpasteurized versions contain 'mother' - colony of beneficial bacteria.",
+        "source": "Food Science and Technology, 2016"
+      },
+      {
+        "title": "Celebrity endorsements of apple cider vinegar",
+        "abstract": "Social media influencers and celebrities promote ACV for weight loss, detox, and beauty. Viral trends include morning ACV shots and ACV gummies.",
+        "source": "Health Marketing Quarterly, 2020"
+      },
+      {
+        "title": "Nutritional composition of apple cider vinegar",
+        "abstract": "ACV contains trace vitamins, minerals, and polyphenols. Main component is acetic acid (5%). Calorie content negligible at 3 calories per tablespoon.",
+        "source": "Journal of Agricultural Food Chemistry, 2017"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides clinical trials directly testing weight loss effects. Context Worse discusses production, celebrity trends, and nutrition facts but doesn't evaluate weight loss claims."
+  },
+  {
+    "id": 8,
+    "query": "Can essential oils cure bacterial infections?",
+    "context_better": [
+      {
+        "title": "Antimicrobial activity of essential oils: In vitro vs in vivo",
+        "abstract": "While essential oils show antibacterial activity in petri dishes, concentrations required are toxic to human cells. No clinical trials demonstrate efficacy for treating infections in humans.",
+        "source": "Antimicrobial Agents and Chemotherapy, 2017"
+      },
+      {
+        "title": "Essential oils for respiratory infections: Systematic review",
+        "abstract": "Review of 12 trials found insufficient evidence for essential oils treating bacterial infections. Aromatherapy may provide symptomatic relief but does not eradicate pathogens.",
+        "source": "Evidence-Based Complementary Medicine, 2018"
+      },
+      {
+        "title": "Dangers of using essential oils as antibiotic alternatives",
+        "abstract": "Case reports document treatment failures, allergic reactions, and progression to serious infections when essential oils substituted for antibiotics. Delays appropriate treatment.",
+        "source": "Clinical Infectious Diseases, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Chemical composition of tea tree and lavender oils",
+        "abstract": "Tea tree oil contains terpinen-4-ol and α-terpineol. Lavender oil rich in linalool and linalyl acetate. Over 100 compounds identified in common essential oils.",
+        "source": "Phytochemistry Reviews, 2015"
+      },
+      {
+        "title": "Essential oil extraction methods",
+        "abstract": "Steam distillation most common extraction method. Cold pressing used for citrus oils. Solvent extraction for delicate flowers. Quality depends on plant species and processing.",
+        "source": "Industrial Crops and Products, 2016"
+      },
+      {
+        "title": "Global essential oil market analysis",
+        "abstract": "Essential oil industry worth $8 billion globally. Fastest growth in aromatherapy and personal care sectors. Multi-level marketing companies dominate consumer sales.",
+        "source": "Market Research Reports, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides clinical evidence and safety concerns about treating infections. Context Worse discusses chemistry, extraction, and market data but doesn't address infection treatment claims."
+  },
+  {
+    "id": 9,
+    "query": "Does earthing (grounding) reduce inflammation?",
+    "context_better": [
+      {
+        "title": "Grounding the human body: Bioelectrical effects study",
+        "abstract": "Small pilot study claimed inflammatory marker reduction with grounding. Study had no control group, lacked blinding, and was funded by earthing product company. Results not replicated.",
+        "source": "Journal of Inflammation Research, 2015"
+      },
+      {
+        "title": "Earthing claims: Critical analysis",
+        "abstract": "Proposed mechanisms (electron transfer from earth) violate basic physics and physiology. No peer-reviewed evidence for anti-inflammatory effects. Placebo-controlled trials needed.",
+        "source": "Skeptical Inquirer, 2017"
+      },
+      {
+        "title": "Inflammation biomarkers and lifestyle factors",
+        "abstract": "Well-established anti-inflammatory interventions include exercise, diet, sleep, and stress management. No credible evidence for grounding/earthing among evidence-based approaches.",
+        "source": "Annual Review of Medicine, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "History of earthing movement",
+        "abstract": "Earthing concept popularized by Clint Ober in early 2000s. Based on idea that modern lifestyle disconnects humans from earth's electrons. Books and documentaries promoted theory.",
+        "source": "Alternative Health Practices, 2014"
+      },
+      {
+        "title": "Earthing product market",
+        "abstract": "Industry sells grounding mats, sheets, and footwear. Products claim to connect users to earth's electrical charge indoors. Sales exceed $50 million annually.",
+        "source": "Wellness Product Review, 2019"
+      },
+      {
+        "title": "Electrical properties of human body",
+        "abstract": "Human body conducts electricity. Skin resistance varies with moisture and contact area. Body can accumulate static charge that dissipates when grounded.",
+        "source": "Bioelectromagnetics, 2016"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better critically evaluates earthing studies and discusses evidence quality. Context Worse covers movement history, product sales, and general bioelectricity but doesn't assess inflammation claims."
+  },
+  {
+    "id": 10,
+    "query": "Can magnet therapy cure cancer?",
+    "context_better": [
+      {
+        "title": "Static magnets and cancer: Scientific evaluation",
+        "abstract": "No biological mechanism supports static magnets affecting cancer cells. Magnetic field strengths from consumer magnets orders of magnitude too weak to penetrate tissue or affect cellular processes.",
+        "source": "Cancer Research, 2016"
+      },
+      {
+        "title": "Electromagnetic therapy in oncology: Review",
+        "abstract": "While pulsed electromagnetic fields show promise in bone healing, static magnets have no demonstrated anti-cancer effects. Review of 15 studies found no tumor regression with magnet therapy.",
+        "source": "Journal of Clinical Oncology, 2018"
+      },
+      {
+        "title": "Dangers of alternative cancer treatments",
+        "abstract": "Patients using magnet therapy or similar unproven treatments instead of conventional cancer care have significantly worse survival outcomes. Delays evidence-based treatment.",
+        "source": "JAMA Oncology, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Types of therapeutic magnets",
+        "abstract": "Consumer magnets range from 400-10,000 gauss. Available as bracelets, mattress pads, and patches. Configurations include static, alternating, and pulsed electromagnetic fields.",
+        "source": "Alternative Medicine Product Guide, 2015"
+      },
+      {
+        "title": "Historical use of magnets in medicine",
+        "abstract": "Magnets used in folk medicine since ancient Greece. Franz Mesmer popularized 'animal magnetism' in 18th century. Modern magnetic therapy emerged in 1970s Japan.",
+        "source": "Medical History, 2012"
+      },
+      {
+        "title": "Magnetism in medical imaging",
+        "abstract": "MRI uses powerful magnetic fields (1.5-3 Tesla) for diagnostic imaging. Demonstrates magnetic fields can interact with body tissue at very high strengths with proper equipment.",
+        "source": "Radiology, 2017"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates cancer treatment claims with scientific evidence and safety concerns. Context Worse discusses magnet types, history, and MRI but doesn't address cancer cure claims."
+  },
+  {
+    "id": 11,
+    "query": "Does colloidal silver safely treat infections?",
+    "context_better": [
+      {
+        "title": "Colloidal silver: Efficacy and safety review",
+        "abstract": "No evidence supports colloidal silver for treating infections. FDA banned marketing for therapeutic purposes. Causes argyria (permanent blue-gray skin discoloration) with chronic use.",
+        "source": "American Family Physician, 2009"
+      },
+      {
+        "title": "Silver toxicity case reports",
+        "abstract": "Multiple cases document argyria, renal toxicity, and neurological effects from colloidal silver use. Interferes with absorption of medications including antibiotics and thyroid hormones.",
+        "source": "Clinical Toxicology, 2015"
+      },
+      {
+        "title": "Antimicrobial resistance and alternative treatments",
+        "abstract": "While silver ions have antimicrobial properties in wound dressings, systemic use as antibiotic alternative is dangerous. No substitute for appropriate antimicrobial therapy.",
+        "source": "Lancet Infectious Diseases, 2018"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Chemistry of colloidal silver preparations",
+        "abstract": "Colloidal silver consists of silver particles suspended in liquid. Particle size ranges 1-100 nanometers. Solutions vary widely in concentration and particle size distribution.",
+        "source": "Colloids and Surfaces, 2014"
+      },
+      {
+        "title": "Silver in medical applications",
+        "abstract": "Silver sulfadiazine used topically for burn wounds. Silver-coated catheters reduce infection risk. Silver nanoparticles incorporated into some wound dressings.",
+        "source": "Biomaterials, 2016"
+      },
+      {
+        "title": "Online marketing of colloidal silver",
+        "abstract": "Internet retailers sell colloidal silver as dietary supplement. Marketing claims include immune support and pathogen elimination. FDA warning letters issued to violators.",
+        "source": "Digital Health Marketing, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better addresses safety and efficacy for treating infections with clinical evidence. Context Worse discusses chemistry, legitimate medical silver uses, and marketing but doesn't evaluate ingesting colloidal silver."
+  },
+  {
+    "id": 12,
+    "query": "Can alkaline water prevent cancer?",
+    "context_better": [
+      {
+        "title": "Alkaline water and cancer: Scientific review",
+        "abstract": "No evidence supports alkaline water preventing or treating cancer. Human blood pH tightly regulated (7.35-7.45) regardless of dietary intake. Stomach acid neutralizes alkaline water.",
+        "source": "Journal of Environmental and Public Health, 2012"
+      },
+      {
+        "title": "pH, diet, and cancer: Mechanistic study",
+        "abstract": "While cancer cells create acidic microenvironments locally, systemic pH cannot be meaningfully altered by diet. No relationship between drinking water pH and cancer incidence.",
+        "source": "Cancer Research, 2016"
+      },
+      {
+        "title": "Alkaline water health claims: Evidence assessment",
+        "abstract": "Review found no credible evidence for health benefits beyond regular water. High pH water may cause skin irritation and gastrointestinal upset. Marketing claims unsupported.",
+        "source": "Mayo Clinic Proceedings, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Methods for producing alkaline water",
+        "abstract": "Alkaline water produced via ionization, adding minerals, or filtering. Commercial products typically pH 8-10. Home ionizer machines available for $1000-5000.",
+        "source": "Water Treatment Technology, 2017"
+      },
+      {
+        "title": "Mineral content of alkaline water",
+        "abstract": "Alkaline water may contain calcium, magnesium, potassium, and bicarbonate. Mineral composition varies by source and production method. Some products add electrolytes.",
+        "source": "Food Chemistry, 2018"
+      },
+      {
+        "title": "Consumer demand for alkaline water",
+        "abstract": "Alkaline water market grew 15% annually from 2015-2020. Celebrity endorsements drive sales. Premium pricing 2-3x regular bottled water.",
+        "source": "Beverage Industry Analysis, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates cancer prevention claims with physiological evidence. Context Worse discusses production methods, mineral content, and market trends without addressing health claims."
+  },
+  {
+    "id": 13,
+    "query": "Does intermittent fasting improve metabolic health?",
+    "context_better": [
+      {
+        "title": "Intermittent fasting and metabolic health: Systematic review",
+        "abstract": "Meta-analysis of 27 trials found IF improves insulin sensitivity, reduces inflammation markers, and promotes weight loss. Effects comparable to continuous calorie restriction.",
+        "source": "Obesity Reviews, 2018"
+      },
+      {
+        "title": "Time-restricted eating: Randomized controlled trial",
+        "abstract": "12-week study of 116 participants found 16:8 IF reduced body weight, fasting glucose, and blood pressure. Adherence higher than traditional dieting.",
+        "source": "Cell Metabolism, 2019"
+      },
+      {
+        "title": "Mechanisms of intermittent fasting benefits",
+        "abstract": "Fasting periods trigger metabolic switching to ketone utilization, enhance autophagy, and improve mitochondrial function. Effects mediated by AMPK and SIRT1 pathways.",
+        "source": "New England Journal of Medicine, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Popular intermittent fasting protocols",
+        "abstract": "Common approaches include 16:8, 5:2, and alternate-day fasting. Social media communities share meal timing schedules and experiences. Apps help track fasting windows.",
+        "source": "Nutrition Trends Magazine, 2020"
+      },
+      {
+        "title": "Historical and religious fasting practices",
+        "abstract": "Fasting practiced across cultures for millennia. Religious observances include Ramadan, Yom Kippur, and Lent. Traditional medicine systems incorporate fasting for health.",
+        "source": "Anthropology of Food, 2016"
+      },
+      {
+        "title": "Intermittent fasting book sales",
+        "abstract": "IF diet books topped bestseller lists 2018-2020. Celebrity authors and biohackers popularized approach. Industry worth estimated $500 million including apps and coaching.",
+        "source": "Publishing Weekly, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides clinical trials and mechanism studies on metabolic effects. Context Worse discusses fasting protocols, cultural practices, and book sales without evaluating health outcomes."
+  },
+  {
+    "id": 14,
+    "query": "Can chiropractic adjustments treat infant colic?",
+    "context_better": [
+      {
+        "title": "Chiropractic for infantile colic: Systematic review",
+        "abstract": "Review of 6 trials found high risk of bias and conflicting results. Most studies lacked adequate controls. No clear evidence spinal manipulation reduces colic beyond natural resolution.",
+        "source": "Pediatrics, 2012"
+      },
+      {
+        "title": "Manual therapy for colic: Randomized trial",
+        "abstract": "Blinded study of 185 infants found no difference between chiropractic manipulation and placebo (gentle touch). Crying decreased equally in both groups over time.",
+        "source": "BMJ Open, 2018"
+      },
+      {
+        "title": "Infant colic: Natural history and management",
+        "abstract": "Colic resolves spontaneously by 3-4 months in most infants regardless of intervention. No spinal pathology identified in colicky infants. Parental reassurance and support primary approach.",
+        "source": "American Family Physician, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Chiropractic philosophy and pediatrics",
+        "abstract": "Some chiropractors believe subluxations in infants cause various health problems. Pediatric chiropractic training programs expanding. Controversy exists within profession about infant treatment.",
+        "source": "Journal of Chiropractic Humanities, 2015"
+      },
+      {
+        "title": "Parent testimonials for chiropractic colic treatment",
+        "abstract": "Online forums contain numerous positive testimonials from parents whose colicky infants improved after adjustments. Satisfaction with practitioner-patient relationship high.",
+        "source": "CAM Patient Experiences, 2017"
+      },
+      {
+        "title": "Chiropractic techniques for infants",
+        "abstract": "Infant adjustments use light pressure (ounces rather than pounds). Techniques include cranial manipulation, mobilization, and soft tissue work. Differs significantly from adult chiropractic.",
+        "source": "Chiropractic Technique, 2018"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides clinical trials and natural history of colic. Context Worse discusses chiropractic philosophy, parent testimonials, and techniques without rigorous evidence evaluation."
+  },
+  {
+    "id": 15,
+    "query": "Does meditation reduce blood pressure in hypertensive patients?",
+    "context_better": [
+      {
+        "title": "Meditation for hypertension: Meta-analysis",
+        "abstract": "Analysis of 12 RCTs with 996 participants found transcendental meditation reduced systolic BP by average 4.7 mmHg. Effect size modest but clinically meaningful as adjunct therapy.",
+        "source": "American Journal of Hypertension, 2017"
+      },
+      {
+        "title": "Mindfulness-based stress reduction and blood pressure",
+        "abstract": "8-week MBSR program in 101 prehypertensive adults reduced systolic BP by 4.9 mmHg compared to control. Effects sustained at 6-month follow-up. Mechanisms include reduced sympathetic activation.",
+        "source": "Psychosomatic Medicine, 2019"
+      },
+      {
+        "title": "Meditation mechanisms in cardiovascular health",
+        "abstract": "Neuroimaging shows meditation reduces amygdala activation and enhances prefrontal regulation. Associated with decreased cortisol, improved heart rate variability, and reduced vascular inflammation.",
+        "source": "Journal of Alternative and Complementary Medicine, 2018"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Types of meditation practices",
+        "abstract": "Major categories include focused attention, open monitoring, and transcendental meditation. Practices vary in posture, breathing techniques, and mental focus. Origins in Buddhist, Hindu, and secular traditions.",
+        "source": "Mindfulness Research Guide, 2016"
+      },
+      {
+        "title": "Meditation in popular culture",
+        "abstract": "Meditation apps downloaded over 100 million times. Corporate wellness programs increasingly include meditation. Celebrity practitioners promote benefits on social media.",
+        "source": "Digital Wellness Trends, 2020"
+      },
+      {
+        "title": "Meditation retreats and tourism",
+        "abstract": "Meditation retreat industry worth $1.2 billion globally. Destinations include Asia, California, and Arizona. Retreats range from weekend workshops to month-long intensive programs.",
+        "source": "Wellness Tourism Report, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides meta-analyses and RCTs with blood pressure outcomes. Context Worse discusses meditation types, cultural trends, and retreat industry without clinical evidence."
+  },
+  {
+    "id": 16,
+    "query": "Can turmeric supplements treat rheumatoid arthritis?",
+    "context_better": [
+      {
+        "title": "Curcumin for rheumatoid arthritis: Systematic review",
+        "abstract": "Review of 8 trials found curcumin reduced joint pain and swelling with effect comparable to NSAIDs. Bioavailability poor without piperine enhancement. Larger long-term studies needed.",
+        "source": "Journal of Medicinal Food, 2016"
+      },
+      {
+        "title": "Turmeric and arthritis: Randomized controlled trial",
+        "abstract": "12-week study of 139 RA patients found curcumin extract improved DAS28 scores and reduced inflammatory markers. Gastrointestinal side effects in 15% of participants.",
+        "source": "Phytotherapy Research, 2018"
+      },
+      {
+        "title": "Mechanisms of curcumin anti-inflammatory effects",
+        "abstract": "Curcumin inhibits NF-κB and COX-2 pathways. Reduces pro-inflammatory cytokines IL-1β, IL-6, and TNF-α. Antioxidant properties may protect joint tissue from oxidative damage.",
+        "source": "Molecules, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Culinary uses of turmeric",
+        "abstract": "Turmeric (Curcuma longa) is spice in curry powder. Contains 2-5% curcumin by weight. Used in South Asian cuisine for flavor and color. Traditional uses in weddings and religious ceremonies.",
+        "source": "Food Science and Culture, 2015"
+      },
+      {
+        "title": "Turmeric supplement market growth",
+        "abstract": "Global turmeric supplement sales exceeded $400 million in 2019. Golden milk lattes and turmeric shots trending. Wide variation in curcumin content and bioavailability among products.",
+        "source": "Nutrition Business Journal, 2020"
+      },
+      {
+        "title": "Growing and harvesting turmeric",
+        "abstract": "Turmeric grows in tropical climates with monsoon rainfall. Rhizomes harvested after 7-10 months. India produces 80% of world supply. Organic certification increasingly common.",
+        "source": "Agricultural Review, 2017"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides clinical trials and mechanism studies for arthritis treatment. Context Worse discusses culinary use, market trends, and agriculture without addressing therapeutic efficacy."
+  },
+  {
+    "id": 17,
+    "query": "Does drinking warm lemon water aid weight loss?",
+    "context_better": [
+      {
+        "title": "Lemon water and weight loss: Clinical evaluation",
+        "abstract": "No studies directly test lemon water for weight loss. Any benefit likely from increased hydration and displacement of caloric beverages. No evidence for metabolic enhancement or fat burning.",
+        "source": "Nutrition Reviews, 2018"
+      },
+      {
+        "title": "Citrus flavonoids and metabolism: Research review",
+        "abstract": "While citrus polyphenols show anti-obesity effects in animal studies, concentrations in lemon water too low for meaningful effect. Would require consumption of whole fruit in large quantities.",
+        "source": "Phytochemistry Reviews, 2017"
+      },
+      {
+        "title": "Dental effects of acidic beverages",
+        "abstract": "Regular consumption of lemon water can erode tooth enamel due to citric acid. Dentists recommend drinking through straw and rinsing mouth afterward. No dental health benefits identified.",
+        "source": "Journal of Dentistry, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Preparation methods for lemon water",
+        "abstract": "Recipes vary from half lemon to whole lemon per glass. Some add honey, ginger, or cayenne pepper. Temperature preferences range from room temperature to hot.",
+        "source": "Culinary Wellness, 2019"
+      },
+      {
+        "title": "Celebrity lemon water endorsements",
+        "abstract": "Models and actresses credit morning lemon water routine for health and appearance. Instagram wellness influencers promote lemon water challenges. Viral trends on TikTok.",
+        "source": "Social Media Health Trends, 2020"
+      },
+      {
+        "title": "Vitamin C content in lemons",
+        "abstract": "One lemon provides approximately 30-40mg vitamin C. Meets 40-50% of daily requirement. Vitamin C content decreases with storage time and heat exposure.",
+        "source": "Journal of Food Composition, 2016"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates weight loss claims with scientific analysis and dental concerns. Context Worse discusses preparation, celebrity trends, and vitamin content without addressing weight loss efficacy."
+  },
+  {
+    "id": 18,
+    "query": "Can Reiki energy healing treat chronic pain?",
+    "context_better": [
+      {
+        "title": "Reiki for pain management: Systematic review",
+        "abstract": "Review of 13 trials found high risk of bias and lack of blinding. Small improvements in pain scores statistically significant but not clinically meaningful. Effects likely due to relaxation and expectation.",
+        "source": "Pain Medicine, 2015"
+      },
+      {
+        "title": "Energy medicine claims: Scientific evaluation",
+        "abstract": "No credible evidence for 'energy fields' or 'life force' that Reiki practitioners claim to manipulate. Proposed mechanisms contradict physics and biology. Controlled studies show no effect beyond placebo.",
+        "source": "Skeptical Inquirer, 2017"
+      },
+      {
+        "title": "Placebo effects in complementary medicine",
+        "abstract": "Hands-on therapies like Reiki produce strong placebo responses through attention, touch, and ritual. Benefits from therapeutic relationship rather than specific technique.",
+        "source": "BMJ Evidence-Based Medicine, 2018"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "History and philosophy of Reiki",
+        "abstract": "Reiki developed by Mikao Usui in Japan in 1920s. Based on concept of universal life energy (ki/chi). Practitioners undergo attunements to channel healing energy through hands.",
+        "source": "Journal of Holistic Nursing, 2014"
+      },
+      {
+        "title": "Reiki training levels and certification",
+        "abstract": "Three levels of Reiki training: I (self-healing), II (distant healing), III (master/teacher). No standardized curriculum or accreditation. Weekend workshops to year-long programs available.",
+        "source": "Alternative Medicine Education, 2016"
+      },
+      {
+        "title": "Integration of Reiki in hospitals",
+        "abstract": "Over 60 US hospitals offer Reiki services. Provided by volunteers and integrative medicine departments. Patient satisfaction surveys show high acceptance. Insurance rarely covers sessions.",
+        "source": "Hospital Integrative Medicine, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates pain treatment claims with systematic reviews and mechanism analysis. Context Worse discusses Reiki history, training, and hospital programs without evidence assessment."
+  },
+  {
+    "id": 19,
+    "query": "Does keto diet improve Type 2 diabetes control?",
+    "context_better": [
+      {
+        "title": "Ketogenic diet for Type 2 diabetes: One-year trial",
+        "abstract": "Study of 262 patients found keto diet reduced HbA1c by 1.0% and enabled 57% to reduce diabetes medications. Weight loss averaged 12%. Long-term adherence challenging.",
+        "source": "Diabetes Therapy, 2018"
+      },
+      {
+        "title": "Low-carbohydrate diets and glycemic control: Meta-analysis",
+        "abstract": "Analysis of 23 trials found very low-carb diets superior to low-fat diets for HbA1c reduction in T2D. Effect size 0.47% at 6 months. Benefits diminish if not sustained.",
+        "source": "BMJ Open Diabetes Research & Care, 2017"
+      },
+      {
+        "title": "Mechanisms of ketogenic diet in diabetes",
+        "abstract": "Carbohydrate restriction reduces glucose excursions and insulin demand. Ketone bodies may improve mitochondrial function. Weight loss contributes to improved insulin sensitivity.",
+        "source": "Nutrition & Metabolism, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Keto diet food lists and meal plans",
+        "abstract": "Typical keto diet limits carbs to 20-50g daily, emphasizes fats (70-80% calories) and moderate protein. Foods include meat, fish, eggs, cheese, oils, and low-carb vegetables.",
+        "source": "Diet and Nutrition Guide, 2019"
+      },
+      {
+        "title": "Keto diet popularity and social media",
+        "abstract": "Keto hashtags used over 10 million times on Instagram. Keto cookbooks bestsellers. Online communities share recipes, progress photos, and tips. Keto product market booming.",
+        "source": "Social Media Diet Trends, 2020"
+      },
+      {
+        "title": "Historical use of ketogenic diets",
+        "abstract": "Keto diet developed in 1920s for epilepsy treatment. Fell out of favor with anticonvulsant drugs. Resurgence in 1990s for epilepsy, then popularized for weight loss in 2010s.",
+        "source": "History of Medical Diets, 2015"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides clinical trials and meta-analyses on diabetes outcomes. Context Worse discusses food lists, social media trends, and history without evaluating glycemic control."
+  },
+  {
+    "id": 20,
+    "query": "Can probiotics prevent antibiotic-associated diarrhea?",
+    "context_better": [
+      {
+        "title": "Probiotics for antibiotic-associated diarrhea: Cochrane review",
+        "abstract": "Meta-analysis of 31 trials with 8,672 participants found probiotics reduced AAD risk by 42%. Lactobacillus and Saccharomyces boulardii most effective. Number needed to treat: 13.",
+        "source": "Cochrane Database, 2017"
+      },
+      {
+        "title": "Probiotic mechanisms in AAD prevention",
+        "abstract": "Probiotics compete with pathogens, maintain gut barrier integrity, and modulate immune response. Restore microbiome diversity disrupted by antibiotics. Strain-specific effects observed.",
+        "source": "Gastroenterology, 2018"
+      },
+      {
+        "title": "Clinical guidelines for probiotic use with antibiotics",
+        "abstract": "Evidence supports certain probiotic strains for AAD prevention. Recommend starting with antibiotics and continuing 1-2 weeks after completion. Generally safe with rare sepsis risk in immunocompromised.",
+        "source": "World Gastroenterology Organisation, 2017"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Probiotic product categories",
+        "abstract": "Probiotics available as supplements (capsules, powders), foods (yogurt, kefir, kombucha), and fortified products. CFU counts range from 1 billion to 100 billion per serving.",
+        "source": "Food Science and Technology, 2019"
+      },
+      {
+        "title": "Probiotic market growth and consumer behavior",
+        "abstract": "Global probiotic market expected to reach $66 billion by 2024. Consumers purchase for digestive health, immunity, and mood. Label claims often exceed evidence.",
+        "source": "Nutrition Business Journal, 2020"
+      },
+      {
+        "title": "Fermentation process for probiotic foods",
+        "abstract": "Yogurt produced by bacterial fermentation of milk with Lactobacillus and Streptococcus species. Kefir uses kefir grains containing multiple bacterial and yeast species. Traditional fermentation practices vary culturally.",
+        "source": "Food Microbiology, 2016"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides Cochrane review and clinical guidelines on AAD prevention. Context Worse discusses product types, market trends, and fermentation without addressing clinical efficacy."
+  },
+  {
+    "id": 21,
+    "query": "Does gluten cause brain fog in non-celiac individuals?",
+    "context_better": [
+      {
+        "title": "Non-celiac gluten sensitivity: Double-blind trial",
+        "abstract": "Study of 37 subjects with self-reported gluten sensitivity found no difference between gluten, whey, and placebo in cognitive function tests. FODMAPs, not gluten, may cause symptoms.",
+        "source": "Gastroenterology, 2013"
+      },
+      {
+        "title": "Gluten and neurological symptoms: Evidence review",
+        "abstract": "No mechanism identified for gluten causing cognitive symptoms in absence of celiac disease or wheat allergy. Nocebo effect may explain symptom attribution to gluten.",
+        "source": "Nutrients, 2018"
+      },
+      {
+        "title": "Brain fog in celiac disease vs general population",
+        "abstract": "Untreated celiac patients show cognitive impairment that resolves with gluten-free diet. No evidence general population experiences cognitive effects from gluten. Diagnosis essential before dietary changes.",
+        "source": "Journal of Neurology, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Gluten-free product market expansion",
+        "abstract": "Gluten-free food sales grew from $1 billion in 2012 to $5 billion in 2019. Products include breads, pasta, snacks, and beer. 30% of consumers seek gluten-free without medical necessity.",
+        "source": "Food Marketing Report, 2020"
+      },
+      {
+        "title": "Celebrity gluten-free advocacy",
+        "abstract": "Celebrities and athletes promote gluten-free diets for performance and mental clarity. Books linking gluten to brain disorders became bestsellers. Social media amplifies anti-gluten messages.",
+        "source": "Popular Health Culture, 2018"
+      },
+      {
+        "title": "Sources of gluten in diet",
+        "abstract": "Gluten is protein in wheat, barley, and rye. Found in breads, pasta, cereals, and processed foods. Cross-contamination concern for celiac patients. Oats may be contaminated.",
+        "source": "Food Science Basics, 2017"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides clinical trials testing cognitive effects in non-celiac individuals. Context Worse discusses market trends, celebrity influence, and gluten sources without clinical evidence."
+  },
+  {
+    "id": 22,
+    "query": "Can frankincense oil treat cancer?",
+    "context_better": [
+      {
+        "title": "Boswellic acids and cancer: Preclinical research",
+        "abstract": "Laboratory studies show frankincense compounds inhibit cancer cell growth in vitro. No human clinical trials demonstrate efficacy. Leap from petri dish to human therapy unwarranted.",
+        "source": "Oncology Reports, 2016"
+      },
+      {
+        "title": "Essential oils and cancer claims: Critical analysis",
+        "abstract": "FDA warning letters issued to companies marketing frankincense for cancer. No approved cancer treatment using frankincense. Delaying evidence-based treatment extremely dangerous.",
+        "source": "Journal of Clinical Oncology, 2017"
+      },
+      {
+        "title": "In vitro to clinical translation in oncology",
+        "abstract": "Thousands of compounds show anti-cancer activity in lab. Only small fraction succeed in human trials. Requires pharmacokinetic studies, toxicity assessment, and rigorous clinical testing.",
+        "source": "Nature Reviews Drug Discovery, 2018"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Chemical composition of frankincense oil",
+        "abstract": "Frankincense (Boswellia species) contains α-pinene, limonene, and boswellic acids. Resin harvested from tree bark. Essential oil extracted through steam distillation.",
+        "source": "Phytochemistry, 2015"
+      },
+      {
+        "title": "Historical use of frankincense",
+        "abstract": "Frankincense used in religious ceremonies for millennia. Ancient Egyptians used in embalming. Trade routes established 5,000 years ago. One of gifts to infant Jesus in Christian tradition.",
+        "source": "Anthropology and History, 2014"
+      },
+      {
+        "title": "Aromatherapy applications of frankincense",
+        "abstract": "Frankincense oil used in aromatherapy for relaxation and meditation. Pleasant woody aroma. Popular in diffusers, massage oils, and skincare products. Safety profile generally good.",
+        "source": "International Journal of Aromatherapy, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better discusses lack of clinical evidence and dangers of using frankincense for cancer. Context Worse covers chemistry, history, and aromatherapy without addressing cancer treatment claims."
+  },
+  {
+    "id": 23,
+    "query": "Does coconut oil pulling whiten teeth and improve oral health?",
+    "context_better": [
+      {
+        "title": "Oil pulling for oral health: Systematic review",
+        "abstract": "Limited evidence from small studies shows oil pulling may reduce plaque and gingivitis similar to chlorhexidine. No evidence for teeth whitening. Not substitute for brushing and flossing.",
+        "source": "Journal of Clinical and Diagnostic Research, 2017"
+      },
+      {
+        "title": "Coconut oil and dental health: Randomized trial",
+        "abstract": "4-week study of 60 participants found no significant difference between oil pulling and control for plaque index or gingival health. No teeth whitening observed. Lengthy procedure (20 minutes daily).",
+        "source": "Nigerian Medical Journal, 2015"
+      },
+      {
+        "title": "Evidence-based recommendations for oral hygiene",
+        "abstract": "ADA recommends brushing twice daily with fluoride toothpaste and daily flossing. No recommendation for oil pulling due to insufficient evidence. Professional whitening treatments most effective for discoloration.",
+        "source": "Journal of the American Dental Association, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Oil pulling technique and instructions",
+        "abstract": "Traditional Ayurvedic practice involves swishing 1 tablespoon oil for 15-20 minutes on empty stomach. Coconut oil most popular modern choice. Spit out oil, do not swallow. Rinse with warm water.",
+        "source": "Ayurvedic Medicine Practices, 2016"
+      },
+      {
+        "title": "Coconut oil properties and uses",
+        "abstract": "Coconut oil contains lauric acid with antimicrobial properties. Solid at room temperature, melts at 76°F. Used in cooking, cosmetics, and alternative health applications.",
+        "source": "Journal of Food Science, 2017"
+      },
+      {
+        "title": "Social media trends in natural oral care",
+        "abstract": "Oil pulling videos viewed millions of times on YouTube. Before-and-after photos viral on Instagram. Wellness influencers promote as natural teeth whitening alternative.",
+        "source": "Digital Health Trends, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides systematic reviews and dental association guidelines on oral health effects. Context Worse discusses technique, coconut oil properties, and social media without clinical evidence."
+  },
+  {
+    "id": 24,
+    "query": "Can bee venom therapy treat Lyme disease?",
+    "context_better": [
+      {
+        "title": "Bee venom therapy for Lyme disease: Evidence assessment",
+        "abstract": "No controlled clinical trials support bee venom for Lyme disease. Theoretical antimicrobial effects not demonstrated in vivo. Risk of severe allergic reactions including anaphylaxis.",
+        "source": "Clinical Infectious Diseases, 2018"
+      },
+      {
+        "title": "Chronic Lyme disease and unproven treatments",
+        "abstract": "Patients with persistent symptoms after treatment often seek alternative therapies. Bee venom, IV vitamins, and long-term antibiotics lack evidence. May cause harm and financial exploitation.",
+        "source": "New England Journal of Medicine, 2016"
+      },
+      {
+        "title": "Evidence-based Lyme disease treatment guidelines",
+        "abstract": "CDC and IDSA recommend appropriate antibiotic courses based on disease stage. Most patients recover fully with standard treatment. No role for bee venom or other alternative approaches.",
+        "source": "Clinical Practice Guidelines, 2017"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Bee venom composition and collection",
+        "abstract": "Bee venom contains melittin, apamin, and phospholipase A2. Collected via electrical stimulation causing bees to sting collection device. Also available as injections and topical preparations.",
+        "source": "Apiculture Research, 2015"
+      },
+      {
+        "title": "History of apitherapy",
+        "abstract": "Bee venom therapy practiced in traditional medicine for centuries. Used historically for arthritis, multiple sclerosis, and pain. American Apitherapy Society founded 1989.",
+        "source": "Alternative Medicine History, 2014"
+      },
+      {
+        "title": "Patient testimonials for bee venom Lyme treatment",
+        "abstract": "Online forums describe symptom improvements with bee venom therapy. Patients report reduction in pain and fatigue. Support groups share protocols and experiences.",
+        "source": "Patient Support Communities, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates Lyme disease treatment evidence and safety concerns. Context Worse discusses venom composition, apitherapy history, and testimonials without clinical evidence."
+  },
+  {
+    "id": 25,
+    "query": "Does drinking celery juice cure autoimmune diseases?",
+    "context_better": [
+      {
+        "title": "Celery juice health claims: Scientific evaluation",
+        "abstract": "No clinical trials test celery juice for autoimmune conditions. Claims promoted by self-proclaimed healer without medical credentials. Contains vitamins but no unique compounds justify health claims.",
+        "source": "Journal of Alternative and Complementary Medicine, 2019"
+      },
+      {
+        "title": "Autoimmune disease pathophysiology and treatment",
+        "abstract": "Autoimmune diseases involve complex immune dysregulation. Treatment requires immunosuppressive medications, biologics, or disease-modifying agents. No dietary cure exists.",
+        "source": "Nature Reviews Immunology, 2018"
+      },
+      {
+        "title": "Dietary approaches in autoimmune disease",
+        "abstract": "Anti-inflammatory diets may help symptom management but don't cure disease. Evidence lacking for specific foods or juices. Patients should not discontinue prescribed medications.",
+        "source": "Autoimmunity Reviews, 2020"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Nutritional content of celery",
+        "abstract": "Celery contains vitamin K, folate, and potassium. Low in calories (16 per cup). 95% water content. Provides dietary fiber. Contains small amounts of flavonoids and antioxidants.",
+        "source": "Journal of Food Composition, 2017"
+      },
+      {
+        "title": "Celery juice trend and social media",
+        "abstract": "Medical Medium promoted celery juice starting 2015. Hashtag used over 500,000 times on Instagram. Celebrities post daily celery juice photos. Recipe books and celery juicers bestsellers.",
+        "source": "Social Media Health Trends, 2019"
+      },
+      {
+        "title": "Juicing equipment and techniques",
+        "abstract": "Celery juice requires masticating or centrifugal juicer. Yield approximately 8 ounces from 1 bunch. Recommended to drink fresh on empty stomach. Juice separates quickly, should consume immediately.",
+        "source": "Juicing Techniques Guide, 2018"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates autoimmune disease claims with immunology evidence. Context Worse discusses nutrition, social media trends, and juicing techniques without addressing disease treatment."
+  },
+  {
+    "id": 26,
+    "query": "Can infrared sauna detoxify heavy metals from the body?",
+    "context_better": [
+      {
+        "title": "Sauna and detoxification: Evidence review",
+        "abstract": "No credible evidence supports heavy metal elimination through sweating. While trace metals present in sweat, amounts negligible compared to urinary and fecal excretion. Liver and kidneys primary detoxification organs.",
+        "source": "Journal of Environmental and Public Health, 2012"
+      },
+      {
+        "title": "Heavy metal toxicity: Diagnosis and treatment",
+        "abstract": "Confirmed heavy metal poisoning requires chelation therapy with DMSA, EDTA, or other agents. Sauna not recognized treatment. Relying on unproven methods delays appropriate medical care.",
+        "source": "Clinical Toxicology, 2017"
+      },
+      {
+        "title": "Sweat composition and excretion",
+        "abstract": "Sweat primarily water and electrolytes. Contains trace amounts of urea and lactate. Heavy metal concentrations in sweat extremely low. Would require unrealistic sweat volumes for meaningful excretion.",
+        "source": "Physiological Reviews, 2016"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Types of saunas: Traditional vs infrared",
+        "abstract": "Traditional saunas heat air to 150-195°F. Infrared saunas use infrared lamps to heat body directly at lower ambient temperature (120-140°F). Portable infrared units available for home use.",
+        "source": "Sauna Technology Review, 2018"
+      },
+      {
+        "title": "Sauna use in Scandinavian culture",
+        "abstract": "Saunas integral to Finnish lifestyle for centuries. Used for relaxation, socialization, and ritual cleansing. Modern wellness resorts incorporate various sauna experiences.",
+        "source": "Cultural Health Practices, 2015"
+      },
+      {
+        "title": "Infrared sauna market growth",
+        "abstract": "Home infrared sauna sales increased 300% from 2015-2020. Celebrity endorsements drive demand. Marketing emphasizes detoxification benefits. Units range $1000-5000.",
+        "source": "Wellness Product Industry, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates detoxification claims with toxicology and physiology evidence. Context Worse discusses sauna types, cultural practices, and market trends without addressing heavy metal elimination."
+  },
+  {
+    "id": 27,
+    "query": "Does intermittent fasting slow aging?",
+    "context_better": [
+      {
+        "title": "Caloric restriction and longevity: Human studies",
+        "abstract": "CALERIE trial showed moderate calorie restriction improved biomarkers associated with aging. Intermittent fasting may provide similar benefits. Long-term human longevity data lacking.",
+        "source": "Journals of Gerontology, 2018"
+      },
+      {
+        "title": "Fasting and cellular aging mechanisms",
+        "abstract": "Animal studies show fasting activates autophagy, reduces oxidative stress, and extends lifespan. Mechanisms include AMPK activation and mTOR inhibition. Translation to humans uncertain.",
+        "source": "Cell Metabolism, 2019"
+      },
+      {
+        "title": "Intermittent fasting: Health effects review",
+        "abstract": "Human trials demonstrate metabolic benefits, but lifespan extension unproven. Aging multifactorial - genetics, environment, lifestyle all contribute. IF one tool among many for healthy aging.",
+        "source": "Ageing Research Reviews, 2020"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Longevity research in model organisms",
+        "abstract": "Caloric restriction extends lifespan in yeast, worms, flies, and mice. Effect size varies by species and genetic background. Mechanisms conserved across evolution but human applicability debated.",
+        "source": "Nature Aging, 2017"
+      },
+      {
+        "title": "Anti-aging supplement industry",
+        "abstract": "Longevity supplement market worth $25 billion globally. Products include NAD+ precursors, resveratrol, and metformin. Marketed alongside fasting protocols. Most claims exceed evidence.",
+        "source": "Nutraceutical Business, 2020"
+      },
+      {
+        "title": "Silicon Valley biohacking movement",
+        "abstract": "Tech entrepreneurs experiment with intermittent fasting, supplements, and health tracking. Goal of living to 120+ years. Conferences and communities focused on longevity optimization.",
+        "source": "Technology and Society, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better discusses human studies and aging mechanisms while acknowledging uncertainty. Context Worse covers animal research, supplement industry, and biohacking culture without human longevity evidence."
+  },
+  {
+    "id": 28,
+    "query": "Can sound therapy heal broken bones faster?",
+    "context_better": [
+      {
+        "title": "Low-intensity pulsed ultrasound for fracture healing",
+        "abstract": "LIPUS shown to accelerate fresh fracture healing by 30-40% in some studies. However, large trial in tibia fractures found no benefit. FDA-approved but evidence mixed.",
+        "source": "Journal of Bone and Joint Surgery, 2016"
+      },
+      {
+        "title": "Sound healing and vibrational therapy: Evidence assessment",
+        "abstract": "No scientific support for audible sound or music accelerating bone healing. Confusion between proven LIPUS (medical ultrasound) and unproven sound healing modalities.",
+        "source": "Orthopedic Reviews, 2018"
+      },
+      {
+        "title": "Bone healing physiology",
+        "abstract": "Fracture repair involves inflammation, soft callus formation, hard callus, and remodeling. Process regulated by growth factors, mechanical loading, and blood supply. Audible sound frequencies don't affect these processes.",
+        "source": "Journal of Orthopaedic Research, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "History of sound healing practices",
+        "abstract": "Ancient cultures used drums, chants, and instruments in healing rituals. Tibetan singing bowls, tuning forks, and gongs used in modern sound therapy. Based on concepts of resonance and vibration.",
+        "source": "Ethnomedicine Review, 2015"
+      },
+      {
+        "title": "Sound therapy practitioner training",
+        "abstract": "Sound healing certification programs range from weekend workshops to year-long courses. No standardized curriculum or scientific requirement. Practitioners use various instruments and frequencies.",
+        "source": "Complementary Therapy Education, 2017"
+      },
+      {
+        "title": "Frequency claims in alternative medicine",
+        "abstract": "Proponents claim specific frequencies heal different conditions. Solfeggio frequencies, 432Hz, and binaural beats promoted. Claims based on pseudoscientific concepts of cellular resonance.",
+        "source": "Skeptical Medicine Review, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better distinguishes medical ultrasound from sound healing and discusses bone physiology. Context Worse covers sound healing history, training, and frequency claims without clinical evidence."
+  },
+  {
+    "id": 29,
+    "query": "Does taking collagen supplements improve skin elasticity?",
+    "context_better": [
+      {
+        "title": "Oral collagen supplementation for skin: Meta-analysis",
+        "abstract": "Analysis of 11 studies with 805 participants found collagen supplements improved skin hydration and elasticity. Effect size modest. Bioavailability mechanism unclear as collagen digested into amino acids.",
+        "source": "Journal of Drugs in Dermatology, 2019"
+      },
+      {
+        "title": "Collagen peptide absorption and distribution",
+        "abstract": "Labeled collagen studies show peptides absorbed and detected in bloodstream and skin. May stimulate fibroblast collagen production. Requires doses of 2.5-10g daily for 8-12 weeks.",
+        "source": "Nutrients, 2018"
+      },
+      {
+        "title": "Skin aging and collagen: Clinical perspective",
+        "abstract": "Aging reduces dermal collagen synthesis. Topical retinoids, sun protection, and laser treatments have strongest evidence. Oral collagen modest adjunct. No substitute for sun avoidance.",
+        "source": "Journal of Clinical and Aesthetic Dermatology, 2020"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Types of collagen supplements",
+        "abstract": "Marine collagen from fish, bovine from cows, and chicken collagen available. Hydrolyzed collagen has smaller peptides for easier absorption. Products come as powders, capsules, and beverages.",
+        "source": "Supplement Industry Guide, 2019"
+      },
+      {
+        "title": "Collagen in beauty industry",
+        "abstract": "Ingestible beauty market including collagen worth $6 billion. Celebrity endorsements widespread. Social media before-and-after photos viral. Marketed alongside skincare products.",
+        "source": "Cosmetics Business Report, 2020"
+      },
+      {
+        "title": "Collagen protein structure",
+        "abstract": "Collagen is triple-helix protein providing structural support in connective tissues. Type I most abundant in skin. Type II in cartilage. 28 types identified with different tissue distributions.",
+        "source": "Biochemistry Textbook, 2016"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides meta-analysis and absorption studies on skin effects. Context Worse discusses supplement types, beauty industry, and protein structure without clinical outcomes."
+  },
+  {
+    "id": 30,
+    "query": "Can elderberry syrup prevent or treat influenza?",
+    "context_better": [
+      {
+        "title": "Elderberry for influenza: Systematic review",
+        "abstract": "Review of 5 trials found elderberry reduced flu duration by 2-4 days and symptom severity. Effect comparable to oseltamivir. Most studies industry-funded with small sample sizes.",
+        "source": "Complementary Therapies in Medicine, 2019"
+      },
+      {
+        "title": "Elderberry mechanisms: In vitro and clinical studies",
+        "abstract": "Laboratory studies show elderberry inhibits viral replication and modulates cytokines. Human trial of 312 air travelers found reduced cold/flu duration. Preventive effect unclear.",
+        "source": "Journal of International Medical Research, 2016"
+      },
+      {
+        "title": "Natural products for respiratory infections: Evidence standards",
+        "abstract": "While elderberry shows promise, larger independent trials needed. Not substitute for flu vaccine. Generally safe but raw elderberries contain toxins. Commercial preparations undergo processing.",
+        "source": "Phytotherapy Research, 2018"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Traditional uses of elderberry",
+        "abstract": "European black elderberry (Sambucus nigra) used in folk medicine for centuries. Native Americans used different species. Made into syrups, teas, and wines. Also used for pies and preserves.",
+        "source": "Ethnobotanical Research, 2014"
+      },
+      {
+        "title": "Elderberry syrup recipes and preparation",
+        "abstract": "Homemade syrup combines berries, water, honey, and spices. Cooked to extract compounds and neutralize toxins. DIY recipes popular on mommy blogs. Commercial products standardized for anthocyanins.",
+        "source": "Natural Home Remedies, 2019"
+      },
+      {
+        "title": "Elderberry supplement sales trends",
+        "abstract": "Elderberry product sales increased 600% during 2019-2020 flu season. Gummies most popular format. Supply shortages reported. Major supplement brands launched elderberry lines.",
+        "source": "Nutrition Business Journal, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides systematic review and mechanism studies on flu treatment. Context Worse discusses traditional use, DIY recipes, and sales trends without clinical evaluation."
+  },
+  {
+    "id": 31,
+    "query": "Does blue light from screens cause permanent eye damage?",
+    "context_better": [
+      {
+        "title": "Blue light exposure and retinal health: Review",
+        "abstract": "While high-intensity blue light can damage retinal cells in lab, screen exposure levels far below threshold for harm. No evidence for permanent damage from typical device use.",
+        "source": "Survey of Ophthalmology, 2018"
+      },
+      {
+        "title": "Digital eye strain vs retinal damage",
+        "abstract": "Screen use causes eye strain, dry eyes, and temporary discomfort but not permanent structural damage. Symptoms resolve with breaks. Blue light filters show no benefit for eye health.",
+        "source": "Ophthalmology, 2019"
+      },
+      {
+        "title": "Blue light and circadian rhythm",
+        "abstract": "Evening blue light suppresses melatonin and disrupts sleep. This is the main concern - not eye damage. Recommend reducing screen time before bed rather than using blue-blocking glasses all day.",
+        "source": "Journal of Clinical Sleep Medicine, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Blue light filter technology",
+        "abstract": "Screen filters and glasses that block blue light widely available. Filters use amber or orange tint. Night mode settings on devices reduce blue light emission. Built into iOS, Android, and Windows.",
+        "source": "Display Technology Review, 2018"
+      },
+      {
+        "title": "Blue light blocking eyewear market",
+        "abstract": "Blue light glasses market worth $25 million in 2019. Marketed to office workers and gamers. Celebrity endorsements. Fashion frames emphasize style alongside function.",
+        "source": "Eyewear Industry Report, 2020"
+      },
+      {
+        "title": "Screen time statistics",
+        "abstract": "Average American spends 7+ hours daily on screens. Increased during pandemic. Children 8-12 average 4-6 hours. Teens exceed 7-9 hours. Concerns about developmental effects.",
+        "source": "Digital Media Survey, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates eye damage claims with ophthalmology evidence. Context Worse discusses filter technology, eyewear market, and screen time statistics without addressing eye health."
+  },
+  {
+    "id": 32,
+    "query": "Can ginger reduce nausea during chemotherapy?",
+    "context_better": [
+      {
+        "title": "Ginger for chemotherapy-induced nausea: Meta-analysis",
+        "abstract": "Analysis of 10 trials with 918 patients found ginger supplementation reduced acute chemotherapy nausea when combined with antiemetics. Effect size small but statistically significant.",
+        "source": "Supportive Care in Cancer, 2016"
+      },
+      {
+        "title": "Ginger mechanisms in nausea reduction",
+        "abstract": "Gingerols and shogaols interact with 5-HT3 receptors similar to ondansetron. Also affects gastric motility. Effective for various nausea types including pregnancy, motion sickness, and post-operative.",
+        "source": "Critical Reviews in Food Science, 2017"
+      },
+      {
+        "title": "Integrative oncology: Evidence-based approaches",
+        "abstract": "ASCO guidelines recommend ginger as adjunct for chemotherapy nausea. Dose 0.5-1g daily. Generally safe with few drug interactions. Not substitute for prescription antiemetics.",
+        "source": "Journal of Clinical Oncology, 2018"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Culinary uses of ginger",
+        "abstract": "Ginger (Zingiber officinale) used in Asian, Indian, and Caribbean cuisines. Available fresh, dried, pickled, and crystallized. Flavor profiles vary by preparation method. Key ingredient in ginger ale and gingerbread.",
+        "source": "Culinary Herbs and Spices, 2015"
+      },
+      {
+        "title": "Ginger cultivation and production",
+        "abstract": "India, China, and Nigeria top ginger producers. Plant requires tropical climate and well-drained soil. Rhizomes harvested 7-10 months after planting. Global production exceeds 3 million tons annually.",
+        "source": "Agricultural Economics, 2018"
+      },
+      {
+        "title": "Traditional medicine uses of ginger",
+        "abstract": "Used in Ayurveda and traditional Chinese medicine for millennia. Considered warming herb. Applied to various conditions from colds to arthritis. One of most widely used herbal remedies globally.",
+        "source": "Herbal Medicine History, 2016"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides meta-analysis and clinical guidelines for chemotherapy nausea. Context Worse discusses culinary uses, agriculture, and traditional medicine without oncology evidence."
+  },
+  {
+    "id": 33,
+    "query": "Does sunscreen cause vitamin D deficiency?",
+    "context_better": [
+      {
+        "title": "Sunscreen use and vitamin D status: Systematic review",
+        "abstract": "Review of 75 studies found no consistent association between sunscreen use and vitamin D deficiency. Real-world application imperfect - people don't use enough or reapply adequately.",
+        "source": "British Journal of Dermatology, 2019"
+      },
+      {
+        "title": "Sun protection and vitamin D synthesis",
+        "abstract": "While SPF 30 blocks 95-98% of UVB theoretically, actual use allows sufficient UV for vitamin D production. Brief incidental sun exposure to arms and face adequate for most people.",
+        "source": "Journal of the American Academy of Dermatology, 2018"
+      },
+      {
+        "title": "Skin cancer prevention vs vitamin D: Risk-benefit analysis",
+        "abstract": "Skin cancer risk from UV exposure far outweighs vitamin D benefit from unprotected sun. Dietary sources and supplements safer for vitamin D. Never intentionally tan for vitamin D.",
+        "source": "JAMA Dermatology, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Types of sunscreen: Chemical vs mineral",
+        "abstract": "Chemical sunscreens absorb UV rays using ingredients like oxybenzone. Mineral sunscreens reflect UV using zinc oxide or titanium dioxide. SPF indicates UVB protection, broad-spectrum includes UVA.",
+        "source": "Cosmetic Science, 2017"
+      },
+      {
+        "title": "Sunscreen ingredient controversies",
+        "abstract": "Hawaii banned oxybenzone and octinoxate due to coral reef concerns. European regulations differ from FDA. Debates over endocrine disruption and environmental impact ongoing.",
+        "source": "Environmental Health Perspectives, 2018"
+      },
+      {
+        "title": "Sunscreen market and consumer behavior",
+        "abstract": "Global sunscreen market worth $8.6 billion. Consumer confusion about adequate application and reapplication. Many people apply too little (1/4 to 1/2 recommended amount).",
+        "source": "Consumer Health Products, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates vitamin D deficiency claims with systematic review and risk-benefit analysis. Context Worse discusses sunscreen types, ingredient controversies, and market data without addressing vitamin D."
+  },
+  {
+    "id": 34,
+    "query": "Can black seed oil cure diabetes?",
+    "context_better": [
+      {
+        "title": "Nigella sativa for diabetes: Systematic review",
+        "abstract": "Review of 17 trials found black seed oil modestly reduced fasting glucose and HbA1c as adjunct to standard treatment. Effect size small, studies low quality. Not cure or monotherapy.",
+        "source": "Complementary Therapies in Medicine, 2015"
+      },
+      {
+        "title": "Thymoquinone mechanisms in glucose metabolism",
+        "abstract": "Active compound in black seed shows antioxidant and anti-inflammatory effects in animal models. May improve insulin sensitivity. Human dose-response studies needed. Mechanisms unclear.",
+        "source": "Phytotherapy Research, 2018"
+      },
+      {
+        "title": "Diabetes management: Evidence-based approach",
+        "abstract": "Type 2 diabetes requires lifestyle modification, monitoring, and often medication. No herbal cure exists. Black seed oil potential adjunct but not substitute for proven therapies. Discontinuing medication dangerous.",
+        "source": "Diabetes Care, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Black seed oil in Islamic tradition",
+        "abstract": "Hadith states black seed heals every disease except death. Used in Middle Eastern and South Asian medicine for centuries. Called 'seed of blessing.' Cultural and religious significance.",
+        "source": "Islamic Medicine History, 2014"
+      },
+      {
+        "title": "Black seed oil production and quality",
+        "abstract": "Cold-pressed from Nigella sativa seeds. Quality varies by growing conditions and processing. Thymoquinone content ranges 0.5-1.5%. Adulteration with cheaper oils common. Third-party testing recommended.",
+        "source": "Essential Oils Quality, 2017"
+      },
+      {
+        "title": "Black seed oil market and promotion",
+        "abstract": "Online retailers make broad health claims citing religious texts and testimonials. Products claim to treat cancer, autoimmune diseases, and infections. FDA warning letters issued for drug claims.",
+        "source": "Alternative Medicine Marketing, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides systematic review and distinguishes adjunct use from cure. Context Worse discusses religious tradition, production quality, and marketing without diabetes outcomes."
+  },
+  {
+    "id": 35,
+    "query": "Does standing at work improve cardiovascular health?",
+    "context_better": [
+      {
+        "title": "Standing desks and cardiovascular outcomes: Systematic review",
+        "abstract": "Review of 20 studies found standing desks increase energy expenditure by 0.15 kcal/min over sitting. No significant impact on cardiovascular disease markers. May reduce postprandial glucose slightly.",
+        "source": "Preventive Medicine, 2018"
+      },
+      {
+        "title": "Prolonged standing vs sitting: Health comparison",
+        "abstract": "While sitting is detrimental, prolonged standing causes leg fatigue, lower back pain, and varicose veins. Alternating positions and movement breaks more beneficial than static standing.",
+        "source": "Occupational and Environmental Medicine, 2017"
+      },
+      {
+        "title": "Physical activity recommendations for office workers",
+        "abstract": "WHO recommends 150 minutes moderate activity weekly. Standing desks not substitute for exercise. Regular movement breaks and intentional physical activity essential for cardiovascular health.",
+        "source": "British Journal of Sports Medicine, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Standing desk designs and features",
+        "abstract": "Options include fixed-height, manual adjustable, and electric sit-stand desks. Desktop converters available. Prices range $100-2000. Anti-fatigue mats often used. Ergonomic setup crucial.",
+        "source": "Office Furniture Review, 2019"
+      },
+      {
+        "title": "Corporate wellness programs and standing desks",
+        "abstract": "Many companies offer standing desks as employee benefit. Part of workplace wellness initiatives. Employee satisfaction surveys show positive responses. Adoption rates vary by industry.",
+        "source": "Corporate Wellness Trends, 2020"
+      },
+      {
+        "title": "Standing desk adoption statistics",
+        "abstract": "20% of office workers used standing desks in 2018, up from 4% in 2014. Tech companies lead adoption. Standing desk market projected to reach $2.8 billion by 2025.",
+        "source": "Workplace Equipment Market, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates cardiovascular health claims with systematic review and activity recommendations. Context Worse discusses desk designs, corporate programs, and adoption rates without health outcomes."
+  },
+  {
+    "id": 36,
+    "query": "Can ashwagandha reduce cortisol and stress?",
+    "context_better": [
+      {
+        "title": "Ashwagandha for stress and anxiety: Systematic review",
+        "abstract": "Meta-analysis of 12 studies found ashwagandha reduced cortisol levels and stress/anxiety scores compared to placebo. Effect size moderate. Most studies used 240-600mg extract daily for 8-12 weeks.",
+        "source": "Journal of Alternative and Complementary Medicine, 2018"
+      },
+      {
+        "title": "Withania somnifera mechanisms: Adaptogen effects",
+        "abstract": "Withanolides modulate HPA axis and reduce stress-induced cortisol elevation. Animal studies show GABA-mimetic effects. Human trials demonstrate stress resilience improvements.",
+        "source": "Phytomedicine, 2019"
+      },
+      {
+        "title": "Herbal adaptogens: Evidence and safety",
+        "abstract": "Ashwagandha shows promise for stress management. Generally well-tolerated but can interact with sedatives, thyroid medication, and immunosuppressants. Avoid during pregnancy. Not first-line for anxiety disorders.",
+        "source": "Drugs, 2017"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Ashwagandha in Ayurvedic medicine",
+        "abstract": "Called 'Indian ginseng' or 'winter cherry.' Used in Ayurveda for 3000+ years as rasayana (rejuvenator). Traditionally prepared as churna (powder) with ghee and honey.",
+        "source": "Ayurvedic Pharmacology, 2015"
+      },
+      {
+        "title": "Ashwagandha cultivation and processing",
+        "abstract": "Withania somnifera grows in India, Middle East, and Africa. Roots harvested after one year. Dried and powdered or extracted. KSM-66 and Sensoril are standardized extracts. Organic certification available.",
+        "source": "Medicinal Plant Agriculture, 2017"
+      },
+      {
+        "title": "Adaptogen supplement market",
+        "abstract": "Adaptogen category growing 12% annually. Ashwagandha top-selling adaptogen in US. Available in capsules, powders, and beverages. Marketed to stressed professionals and athletes.",
+        "source": "Supplement Industry Report, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides meta-analysis and mechanism studies on stress/cortisol reduction. Context Worse discusses Ayurvedic tradition, cultivation, and market trends without clinical evidence."
+  },
+  {
+    "id": 37,
+    "query": "Does drinking bone broth heal leaky gut syndrome?",
+    "context_better": [
+      {
+        "title": "Intestinal permeability: Pathophysiology and treatment",
+        "abstract": "While increased intestinal permeability occurs in some conditions, 'leaky gut syndrome' not recognized medical diagnosis. No clinical trials test bone broth for gut health. Collagen and gelatin digested to amino acids.",
+        "source": "Gastroenterology, 2018"
+      },
+      {
+        "title": "Bone broth composition and bioavailability",
+        "abstract": "Bone broth contains collagen, amino acids, and minerals from bones. No unique compounds compared to other protein sources. Claims of gut-healing properties lack scientific support.",
+        "source": "Journal of Renal Nutrition, 2017"
+      },
+      {
+        "title": "Evidence-based approaches to gut health",
+        "abstract": "Inflammatory bowel disease and celiac disease have established treatments. Dietary interventions include fiber, fermented foods, and elimination diets for identified triggers. Bone broth not part of guidelines.",
+        "source": "Clinical Gastroenterology and Hepatology, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Traditional bone broth preparation",
+        "abstract": "Simmering animal bones with vegetables and vinegar for 12-48 hours. Vinegar extracts minerals from bones. Used in cuisines worldwide. Basis for stocks and soups. Grandmother's remedy for illness.",
+        "source": "Culinary Traditions, 2016"
+      },
+      {
+        "title": "Bone broth trend and paleo diet",
+        "abstract": "Bone broth cafes opened in major cities. Packaged bone broth available in grocery stores. Paleo and Whole30 diets emphasize bone broth. Cookbook section dedicated to bone broth recipes.",
+        "source": "Food Trends Magazine, 2019"
+      },
+      {
+        "title": "Nutritional comparison: Bone broth vs regular broth",
+        "abstract": "Bone broth has slightly more protein than stock or bouillon. Gelatin content higher. Mineral levels modest and highly variable. Nutritional advantages over other protein sources unclear.",
+        "source": "Food Science and Nutrition, 2017"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates leaky gut claims with gastroenterology evidence. Context Worse discusses traditional preparation, food trends, and nutrition comparison without clinical support."
+  },
+  {
+    "id": 38,
+    "query": "Can PEMF (pulsed electromagnetic field) therapy heal fractures?",
+    "context_better": [
+      {
+        "title": "PEMF therapy for fracture healing: Cochrane review",
+        "abstract": "Review of 11 trials found some evidence PEMF accelerates healing in delayed union or non-union fractures. Effect modest. No benefit for fresh fractures. FDA-approved as adjunct treatment.",
+        "source": "Cochrane Database, 2018"
+      },
+      {
+        "title": "Electromagnetic field effects on bone cells",
+        "abstract": "PEMF stimulates osteoblast proliferation and differentiation in vitro. Mechanisms involve calcium signaling and growth factor expression. Clinical efficacy varies by fracture type and device parameters.",
+        "source": "Journal of Bone and Mineral Research, 2017"
+      },
+      {
+        "title": "Fracture management: Evidence-based approaches",
+        "abstract": "Primary treatment includes reduction, immobilization, and weight-bearing as appropriate. PEMF potential adjunct for problematic fractures. Not substitute for surgical intervention when indicated.",
+        "source": "Journal of Orthopaedic Trauma, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Consumer PEMF device market",
+        "abstract": "Home PEMF devices marketed for pain, inflammation, and healing. Range from $300 mats to $15,000 full-body systems. Marketing claims often exceed FDA-approved indications.",
+        "source": "Medical Device Industry, 2020"
+      },
+      {
+        "title": "History of electromagnetic therapy",
+        "abstract": "Electromagnetic devices used since 1800s. Early versions included magnetic belts and electrotherapy machines. Modern PEMF devices more sophisticated but build on century-old concepts.",
+        "source": "History of Medical Technology, 2015"
+      },
+      {
+        "title": "PEMF parameters and protocols",
+        "abstract": "Devices vary in frequency (1-100Hz), intensity (1-50 Gauss), and waveform. Treatment protocols range 20 minutes to several hours daily. No consensus on optimal parameters.",
+        "source": "Bioelectromagnetics, 2018"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides Cochrane review and distinguishes FDA-approved use from broad claims. Context Worse discusses consumer devices, history, and technical parameters without clinical outcomes."
+  },
+  {
+    "id": 39,
+    "query": "Does activated charcoal toothpaste whiten teeth better than regular toothpaste?",
+    "context_better": [
+      {
+        "title": "Charcoal toothpaste efficacy and safety: Systematic review",
+        "abstract": "Review of 50 charcoal toothpaste studies found insufficient evidence for whitening claims. Abrasive particles may damage enamel. Most products lack fluoride, increasing cavity risk.",
+        "source": "Journal of the American Dental Association, 2019"
+      },
+      {
+        "title": "Tooth whitening: Evidence-based approaches",
+        "abstract": "Professional bleaching with peroxide and take-home trays most effective. Whitening toothpastes with peroxide or silica show modest effect. Activated charcoal not proven superior.",
+        "source": "Clinical Oral Investigations, 2018"
+      },
+      {
+        "title": "Dental abrasivity and enamel wear",
+        "abstract": "Charcoal toothpastes often highly abrasive (RDA >100). Chronic use may wear enamel and expose yellow dentin, worsening discoloration. ADA Seal requires RDA <250 and fluoride.",
+        "source": "Operative Dentistry, 2017"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Activated charcoal toothpaste formulations",
+        "abstract": "Black toothpastes contain coconut-derived activated charcoal powder. Often marketed as 'natural' and 'chemical-free.' Sold online and in health food stores. Dramatic black paste creates visual appeal.",
+        "source": "Cosmetic Dentistry Products, 2018"
+      },
+      {
+        "title": "Social media and charcoal toothpaste trend",
+        "abstract": "YouTube videos of charcoal brushing viewed millions of times. Before-and-after photos viral on Instagram. Influencers promote 'detoxifying' benefits. Hashtags generate engagement.",
+        "source": "Digital Marketing Trends, 2019"
+      },
+      {
+        "title": "Consumer perception of natural oral care",
+        "abstract": "Survey shows 67% associate 'natural' products with safety. Black color perceived as purifying. Distrust of fluoride among some consumers. Willingness to pay premium for perceived naturalness.",
+        "source": "Consumer Behavior Study, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides systematic review and safety concerns about enamel damage. Context Worse discusses formulations, social media trends, and consumer perceptions without efficacy evidence."
+  },
+  {
+    "id": 40,
+    "query": "Can forest bathing (shinrin-yoku) improve immune function?",
+    "context_better": [
+      {
+        "title": "Forest bathing and immune markers: Clinical studies",
+        "abstract": "Japanese studies found forest exposure increased natural killer cell activity and anti-cancer proteins. Effects lasted 7-30 days. Small sample sizes, lack of control for physical activity confound.",
+        "source": "Environmental Health and Preventive Medicine, 2010"
+      },
+      {
+        "title": "Nature exposure and health: Systematic review",
+        "abstract": "Review found nature exposure reduces stress and improves mood. Evidence for immune enhancement limited. Phytoncides from trees proposed mechanism but human relevance unclear.",
+        "source": "International Journal of Environmental Research and Public Health, 2018"
+      },
+      {
+        "title": "Physical activity vs setting: Effects on immunity",
+        "abstract": "Exercise in any setting benefits immune function. Unclear if forests provide additional benefit beyond physical activity and stress reduction. Need controlled trials comparing forest to other outdoor settings.",
+        "source": "Frontiers in Psychology, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Shinrin-yoku practice in Japan",
+        "abstract": "Forest therapy developed in 1980s Japan. Involves mindful walking in forests. Designated therapy trails throughout Japan. Part of national public health program. Certified forest therapy guides.",
+        "source": "Japanese Culture and Medicine, 2016"
+      },
+      {
+        "title": "Forest bathing retreats and tourism",
+        "abstract": "Forest bathing retreats offered worldwide. Combines guided walks with mindfulness and yoga. Wellness tourism sector. Retreats range from day trips to week-long immersions.",
+        "source": "Ecotourism Trends, 2019"
+      },
+      {
+        "title": "Biophilia hypothesis",
+        "abstract": "Theory that humans have innate tendency to seek connections with nature. Edward Wilson popularized concept. Used to explain benefits of nature exposure. Evolutionary psychology perspective.",
+        "source": "Environmental Psychology, 2015"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates immune function claims with clinical studies and confounding factors. Context Worse discusses Japanese practice, forest retreats, and biophilia theory without immune evidence."
+  },
+  {
+    "id": 41,
+    "query": "Does drinking hydrogen water provide health benefits?",
+    "context_better": [
+      {
+        "title": "Molecular hydrogen as therapeutic agent: Clinical trials",
+        "abstract": "Small studies suggest hydrogen-rich water may reduce oxidative stress markers in specific conditions. Most research in Japan with industry funding. Large independent trials needed. Mechanisms unclear.",
+        "source": "Medical Gas Research, 2017"
+      },
+      {
+        "title": "Hydrogen water health claims: Evidence assessment",
+        "abstract": "Marketing claims far exceed limited evidence. Most cited studies in animals or test tubes. Human benefits for healthy individuals unproven. Dissolved hydrogen dissipates quickly after opening.",
+        "source": "Skeptical Inquirer, 2019"
+      },
+      {
+        "title": "Oxidative stress and antioxidant interventions",
+        "abstract": "While oxidative stress implicated in disease, exogenous antioxidant supplements generally ineffective. Body's endogenous antioxidant systems more important. Diet rich in fruits and vegetables recommended.",
+        "source": "Free Radical Biology and Medicine, 2018"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Hydrogen water generation methods",
+        "abstract": "Produced by electrolysis, magnesium reaction, or dissolving hydrogen gas. Home generators available for $500-3000. Bottled hydrogen water sold in stores. Concentration measured in parts per million.",
+        "source": "Water Technology Review, 2019"
+      },
+      {
+        "title": "Hydrogen water market and celebrity endorsements",
+        "abstract": "Professional athletes endorse hydrogen water products. Growing presence in gyms and health food stores. Japanese market mature; Western market emerging. Premium pricing versus regular water.",
+        "source": "Sports Nutrition Business, 2020"
+      },
+      {
+        "title": "Properties of dissolved hydrogen gas",
+        "abstract": "Hydrogen is smallest molecule, may cross cell membranes easily. Dissolved concentration limited by solubility. Concentration decreases after production due to evaporation. Tasteless and odorless.",
+        "source": "Chemistry of Water, 2016"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates health benefit claims with clinical trial evidence and limitations. Context Worse discusses generation methods, market trends, and hydrogen properties without health outcomes."
+  },
+  {
+    "id": 42,
+    "query": "Can red light therapy reduce wrinkles?",
+    "context_better": [
+      {
+        "title": "Low-level light therapy for skin aging: Systematic review",
+        "abstract": "Review of 14 studies found red/near-infrared light (630-850nm) improved collagen density and reduced fine lines. Effects modest. Requires treatments 2-3x weekly for 8-12 weeks. Home devices less powerful than clinical.",
+        "source": "Lasers in Medical Science, 2018"
+      },
+      {
+        "title": "Photobiomodulation mechanisms in dermal tissue",
+        "abstract": "Red light absorbed by mitochondrial chromophores, enhancing ATP production. Stimulates fibroblast proliferation and collagen synthesis. Dose-dependent effects - too much or too little ineffective.",
+        "source": "Photomedicine and Laser Surgery, 2017"
+      },
+      {
+        "title": "Anti-aging interventions: Comparative efficacy",
+        "abstract": "Retinoids, sunscreen, and laser resurfacing have strongest evidence for wrinkle reduction. LED therapy may provide modest benefit. Not substitute for sun protection. Results subtle compared to procedures.",
+        "source": "JAMA Dermatology, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Red light therapy device types",
+        "abstract": "Panels, masks, and handheld wands available. Wavelengths 630-660nm (red) or 810-850nm (near-infrared). Power outputs vary. Full-body panels cost $500-2000. Masks target facial skin.",
+        "source": "Light Therapy Devices, 2020"
+      },
+      {
+        "title": "Red light therapy in spas and wellness centers",
+        "abstract": "Standalone light therapy beds offered at spas, tanning salons, and gyms. Sessions 10-20 minutes. Packaged with other treatments. Monthly memberships available. Growing wellness service category.",
+        "source": "Spa Industry Trends, 2019"
+      },
+      {
+        "title": "NASA and light therapy research",
+        "abstract": "NASA studied LED therapy for wound healing in space. Research funded for astronaut care. Technology transitioned to commercial applications. Often cited in marketing materials.",
+        "source": "Space Medicine History, 2016"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides systematic review and mechanism studies on wrinkle reduction. Context Worse discusses device types, spa services, and NASA research without skin aging outcomes."
+  },
+  {
+    "id": 43,
+    "query": "Does drinking celery juice on an empty stomach cleanse the liver?",
+    "context_better": [
+      {
+        "title": "Liver detoxification: Physiology and myths",
+        "abstract": "Liver continuously detoxifies blood through phase I and II enzymatic pathways. No food or beverage enhances this process. Celery juice provides nutrients but no unique detox properties. Healthy liver doesn't need cleansing.",
+        "source": "Hepatology, 2018"
+      },
+      {
+        "title": "Celery nutritional composition and bioactives",
+        "abstract": "Celery contains apigenin and other flavonoids with antioxidant properties in vitro. Benefits from eating whole celery similar to juice. No clinical evidence for liver cleansing at achievable intake levels.",
+        "source": "Journal of Agricultural and Food Chemistry, 2017"
+      },
+      {
+        "title": "Detox claims and liver health",
+        "abstract": "Liver disease requires medical management. No detox regimen treats fatty liver, hepatitis, or cirrhosis. Avoiding alcohol, maintaining healthy weight, and treating underlying conditions essential.",
+        "source": "Clinical Liver Disease, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Medical Medium celery juice protocol",
+        "abstract": "Anthony William recommends 16oz pure celery juice every morning on empty stomach. Claims it contains 'undiscovered cluster salts' that heal. Millions of followers. Criticized by medical professionals.",
+        "source": "Alternative Health Influencers, 2018"
+      },
+      {
+        "title": "Celery juice preparation and storage",
+        "abstract": "Best consumed fresh; nutrients degrade with time. One bunch yields 16oz juice. Requires juicer; blending doesn't work. Separation normal. Drink within 24 hours. Can prep night before.",
+        "source": "Juicing Guides, 2019"
+      },
+      {
+        "title": "Celery juice challenge on social media",
+        "abstract": "Thousands post daily celery juice selfies with hashtags. Testimonials of improved digestion, clearer skin, more energy. Community support groups. Celery shortage reported in some areas.",
+        "source": "Social Media Health Phenomena, 2020"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better explains liver physiology and lack of detox evidence. Context Worse discusses Medical Medium protocol, preparation, and social media trends without scientific support."
+  },
+  {
+    "id": 44,
+    "query": "Can vagus nerve stimulation improve depression?",
+    "context_better": [
+      {
+        "title": "Vagus nerve stimulation for treatment-resistant depression: Clinical trials",
+        "abstract": "Implanted VNS device showed 27-30% response rate in treatment-resistant depression in long-term studies. FDA-approved as adjunct therapy. Requires surgical implantation. Reserved for severe cases unresponsive to other treatments.",
+        "source": "Journal of Clinical Psychiatry, 2017"
+      },
+      {
+        "title": "Non-invasive vagal nerve stimulation: Evidence review",
+        "abstract": "Transcutaneous VNS (ear or neck stimulation) shows promise in preliminary studies. Effect sizes smaller than implanted devices. Not yet FDA-approved for depression. Mechanisms involve neurotransmitter modulation.",
+        "source": "Brain Stimulation, 2019"
+      },
+      {
+        "title": "Depression treatment: Evidence-based algorithm",
+        "abstract": "First-line treatments include psychotherapy and antidepressants. VNS option after failure of multiple treatments. TMS and ECT alternatives. Non-invasive vagal stimulation experimental.",
+        "source": "American Journal of Psychiatry, 2018"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Vagus nerve anatomy and function",
+        "abstract": "Tenth cranial nerve connecting brain to heart, lungs, and digestive organs. Longest cranial nerve. Parasympathetic nervous system component. Influences heart rate, digestion, and inflammation.",
+        "source": "Neuroanatomy Textbook, 2016"
+      },
+      {
+        "title": "Consumer vagus nerve stimulation devices",
+        "abstract": "Handheld devices claim to stimulate vagus nerve through ear or neck. Marketed for stress, anxiety, and focus. Not FDA-approved for medical conditions. Wide price range $50-500.",
+        "source": "Wellness Technology Report, 2020"
+      },
+      {
+        "title": "Polyvagal theory and popular psychology",
+        "abstract": "Stephen Porges' theory connects vagus nerve to social engagement and trauma response. Popularized in therapy communities. Vagal toning exercises promoted. Scientific debate about theory's validity.",
+        "source": "Psychology Today, 2018"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates depression treatment evidence for implanted and non-invasive VNS. Context Worse discusses anatomy, consumer devices, and polyvagal theory without depression outcomes."
+  },
+  {
+    "id": 45,
+    "query": "Does taking melatonin for sleep cause dependency?",
+    "context_better": [
+      {
+        "title": "Melatonin for insomnia: Long-term safety and efficacy",
+        "abstract": "Studies up to 2 years show no tolerance development or withdrawal symptoms. Melatonin doesn't cause physiological dependence. Endogenous production not suppressed by exogenous supplementation.",
+        "source": "Sleep Medicine Reviews, 2017"
+      },
+      {
+        "title": "Melatonin pharmacology: Mechanism and metabolism",
+        "abstract": "Unlike benzodiazepines, melatonin works through melatonin receptors without GABA modulation. Half-life 30-60 minutes. Cleared rapidly. Does not accumulate. Non-addictive pharmacological profile.",
+        "source": "British Journal of Clinical Pharmacology, 2018"
+      },
+      {
+        "title": "Sleep aids: Dependency risk comparison",
+        "abstract": "Benzodiazepines and Z-drugs cause tolerance and withdrawal. Melatonin shows no dependency potential. Antihistamines develop tolerance. Melatonin appropriate for long-term use when needed.",
+        "source": "Mayo Clinic Proceedings, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Melatonin supplement formulations",
+        "abstract": "Available in tablets, gummies, liquids, and sublingual forms. Doses range 0.5-10mg. Immediate-release and extended-release versions. Often combined with magnesium, L-theanine, or 5-HTP.",
+        "source": "Supplement Product Guide, 2019"
+      },
+      {
+        "title": "Melatonin sales and consumer use",
+        "abstract": "Melatonin sales exceeded $800 million in 2019. One of top-selling supplements. Used by 16% of adults. COVID-19 pandemic increased sleep supplement use. Available without prescription.",
+        "source": "Nutrition Business Journal, 2020"
+      },
+      {
+        "title": "Circadian rhythm and melatonin secretion",
+        "abstract": "Pineal gland produces melatonin in response to darkness. Levels rise evening, peak at night, decline morning. Blue light suppresses production. Regulates sleep-wake cycle.",
+        "source": "Chronobiology International, 2016"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates dependency potential with long-term studies and pharmacology. Context Worse discusses formulations, sales trends, and circadian physiology without addressing dependency."
+  },
+  {
+    "id": 46,
+    "query": "Can eating organic food reduce cancer risk?",
+    "context_better": [
+      {
+        "title": "Organic food consumption and cancer incidence: Cohort study",
+        "abstract": "French study of 68,946 adults found 25% reduction in cancer incidence among frequent organic consumers. Confounding by healthier lifestyles possible. Pesticide residue reduction proposed mechanism.",
+        "source": "JAMA Internal Medicine, 2018"
+      },
+      {
+        "title": "Pesticide exposure and cancer: Risk assessment",
+        "abstract": "Occupational pesticide exposure at high levels associated with some cancers. Dietary exposure from conventional produce at low levels. Safety margins built into regulations. Organic reduces exposure but unclear if clinically significant.",
+        "source": "Environmental Health Perspectives, 2019"
+      },
+      {
+        "title": "Cancer prevention: Evidence-based recommendations",
+        "abstract": "Eating fruits and vegetables (organic or conventional) reduces cancer risk. Benefits from phytochemicals outweigh pesticide concerns. Don't avoid produce due to cost of organic. Washing reduces residues.",
+        "source": "Journal of the National Cancer Institute, 2017"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Organic certification standards",
+        "abstract": "USDA organic prohibits synthetic pesticides and fertilizers. Requires 3-year transition. Annual inspections. Allows approved natural pesticides. 95% organic ingredients required for label.",
+        "source": "Agricultural Regulations, 2018"
+      },
+      {
+        "title": "Organic food market growth",
+        "abstract": "US organic food sales reached $52 billion in 2019. Fastest growing food sector. Organic produce represents 15% of total produce sales. Millennials driving demand.",
+        "source": "Organic Trade Association, 2020"
+      },
+      {
+        "title": "Price comparison: Organic vs conventional",
+        "abstract": "Organic produce costs 20-100% more than conventional. Price premium varies by item and season. Berries and leafy greens highest premiums. Some items minimal difference.",
+        "source": "Consumer Reports, 2019"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better discusses cohort study on cancer incidence and pesticide risk assessment. Context Worse covers certification standards, market trends, and pricing without cancer outcomes."
+  },
+  {
+    "id": 47,
+    "query": "Does ice bath therapy speed muscle recovery after exercise?",
+    "context_better": [
+      {
+        "title": "Cold water immersion for exercise recovery: Meta-analysis",
+        "abstract": "Analysis of 29 studies found cold baths reduced perceived muscle soreness 24-96 hours post-exercise. Effect on performance recovery mixed. May impair long-term muscle adaptations and strength gains.",
+        "source": "Sports Medicine, 2017"
+      },
+      {
+        "title": "Cryotherapy and muscle adaptation: Mechanistic study",
+        "abstract": "Cold exposure blunts inflammatory response and protein synthesis signaling post-exercise. While reducing soreness short-term, may limit training adaptations. Trade-off between recovery and adaptation.",
+        "source": "Journal of Physiology, 2018"
+      },
+      {
+        "title": "Recovery modalities: Evidence-based recommendations",
+        "abstract": "Active recovery, sleep, and nutrition primary recovery strategies. Ice baths may help before competitions but could hinder training adaptations. Use strategically based on goals and timeline.",
+        "source": "British Journal of Sports Medicine, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Ice bath protocols for athletes",
+        "abstract": "Typical protocol: 10-15 minutes in 50-59°F water. Full-body or lower-body immersion. Timing: within 1-2 hours post-exercise. Professional teams have dedicated cold plunge tubs.",
+        "source": "Athletic Training Guide, 2018"
+      },
+      {
+        "title": "Cryotherapy chambers and cold therapy trends",
+        "abstract": "Whole-body cryotherapy chambers cool to -200°F for 2-3 minutes. Growing trend in sports recovery. Cryotherapy spas proliferating. Celebrities endorse cold therapy. Safety incidents reported.",
+        "source": "Sports Medicine Trends, 2019"
+      },
+      {
+        "title": "Physiological responses to cold exposure",
+        "abstract": "Cold immersion causes vasoconstriction, reduces tissue temperature, and decreases metabolic activity. Shivering generates heat. Repeated exposure may improve cold tolerance.",
+        "source": "Temperature Physiology, 2016"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better provides meta-analysis on recovery and discusses adaptation trade-offs. Context Worse covers protocols, cryotherapy trends, and physiology without performance outcomes."
+  },
+  {
+    "id": 48,
+    "query": "Can lion's mane mushroom improve cognitive function?",
+    "context_better": [
+      {
+        "title": "Hericium erinaceus and cognitive function: Clinical trials",
+        "abstract": "Small Japanese study of 50 adults with mild cognitive impairment found improved cognition scores with lion's mane supplementation. Effects disappeared after discontinuation. Larger trials needed.",
+        "source": "Phytotherapy Research, 2009"
+      },
+      {
+        "title": "Nerve growth factor and mushroom compounds",
+        "abstract": "In vitro studies show lion's mane compounds stimulate NGF synthesis. Animal studies demonstrate neuroprotective effects. Human bioavailability and brain penetration unconfirmed.",
+        "source": "International Journal of Medicinal Mushrooms, 2018"
+      },
+      {
+        "title": "Cognitive enhancement supplements: Evidence review",
+        "abstract": "Most nootropics lack robust human evidence. Lion's mane shows preliminary promise but needs large-scale trials. Not substitute for addressing sleep, exercise, and medical causes of cognitive decline.",
+        "source": "Journal of Alzheimer's Disease, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Lion's mane mushroom identification and cultivation",
+        "abstract": "White, shaggy mushroom resembling lion's mane. Grows on hardwood trees. Culinary mushroom with seafood-like texture. Increasingly cultivated commercially. Available fresh or dried.",
+        "source": "Mycology, 2016"
+      },
+      {
+        "title": "Nootropic supplement market and biohacking",
+        "abstract": "Cognitive enhancement supplements worth $3 billion. Lion's mane popular in biohacker communities. Stacked with other nootropics. Reddit forums discuss dosing protocols. Podcast promotion.",
+        "source": "Neutraceutical Trends, 2020"
+      },
+      {
+        "title": "Traditional Chinese medicine uses",
+        "abstract": "Used in TCM for digestive and cognitive support. Called 'hou tou gu' (monkey head mushroom). Prepared as tea or soup. Modern supplements concentrated extracts. Cultural significance in Asian cuisine.",
+        "source": "Ethnopharmacology, 2015"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates cognitive function with clinical trials and mechanism studies. Context Worse discusses mushroom identification, nootropic market, and TCM without cognitive evidence."
+  },
+  {
+    "id": 49,
+    "query": "Does earthing (walking barefoot) reduce inflammation biomarkers?",
+    "context_better": [
+      {
+        "title": "Grounding and inflammation: Pilot study critique",
+        "abstract": "Single small study claimed earthing reduced inflammation markers. Study lacked blinding, control group, and was funded by earthing product company. Results not independently replicated.",
+        "source": "Journal of Environmental and Public Health, 2012"
+      },
+      {
+        "title": "Electron transfer from earth: Physics evaluation",
+        "abstract": "Claims that earth's electrons enter body and neutralize free radicals contradict basic physics. Skin is not perfect conductor. No plausible mechanism for anti-inflammatory effect via electron transfer.",
+        "source": "Skeptical Inquirer, 2017"
+      },
+      {
+        "title": "Inflammation reduction: Evidence-based approaches",
+        "abstract": "Established anti-inflammatory strategies include exercise, Mediterranean diet, stress management, and adequate sleep. No credible evidence for earthing among proven approaches.",
+        "source": "Nature Reviews Immunology, 2019"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "Earthing practice instructions",
+        "abstract": "Practitioners recommend 30-40 minutes daily barefoot contact with earth. Grass, sand, dirt, or concrete (if damp) suitable. Indoor mats claim to conduct earth's energy. Shoes with leather soles said to work.",
+        "source": "Earthing Movement, 2016"
+      },
+      {
+        "title": "Earthing product industry",
+        "abstract": "Grounding sheets, mats, and wristbands sold online. Products connect to home electrical ground. Marketing emphasizes electron transfer and inflammation. Documentaries promote concept.",
+        "source": "Alternative Health Products, 2019"
+      },
+      {
+        "title": "Modern disconnection from nature theory",
+        "abstract": "Argument that modern lifestyle disconnects humans from earth's electrical field. Rubber-soled shoes cited as barrier. Hunter-gatherers had constant earth contact. Evolutionary mismatch hypothesis.",
+        "source": "Environmental Philosophy, 2018"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better critically evaluates inflammation claims and physics of electron transfer. Context Worse discusses practice instructions, product industry, and disconnection theory without scientific evidence."
+  },
+  {
+    "id": 50,
+    "query": "Can NAD+ supplements reverse aging?",
+    "context_better": [
+      {
+        "title": "NAD+ precursors and aging: Clinical trials",
+        "abstract": "Human trials of NMN and NR show increased blood NAD+ levels. Effects on aging biomarkers modest and inconsistent. Long-term health outcomes unknown. Animal longevity data don't reliably translate to humans.",
+        "source": "Cell Metabolism, 2019"
+      },
+      {
+        "title": "NAD+ and cellular metabolism: Mechanistic review",
+        "abstract": "NAD+ levels decline with age. Important cofactor for energy metabolism and DNA repair. Supplementation may support cellular function but 'reversing aging' overstates evidence. Bioavailability challenges exist.",
+        "source": "Nature Reviews Molecular Cell Biology, 2018"
+      },
+      {
+        "title": "Anti-aging interventions: Evidence hierarchy",
+        "abstract": "Proven longevity interventions: not smoking, physical activity, healthy diet. NAD+ boosters have theoretical rationale but lack human longevity data. Claims exceed evidence. Long-term safety unstudied.",
+        "source": "Ageing Research Reviews, 2020"
+      }
+    ],
+    "context_worse": [
+      {
+        "title": "NAD+ supplement types: NMN vs NR",
+        "abstract": "Nicotinamide riboside and nicotinamide mononucleotide are NAD+ precursors. NR patented by ChromaDex. NMN popular in Asia. Debate over superior bioavailability. Doses 250-1000mg daily.",
+        "source": "Supplement Science, 2019"
+      },
+      {
+        "title": "NAD+ and longevity research funding",
+        "abstract": "David Sinclair's research on NAD+ precursors attracted significant attention. Venture capital funding for NAD+ companies. Some researchers have financial interests in supplement companies.",
+        "source": "Biotech Investment Trends, 2020"
+      },
+      {
+        "title": "Sirtuins and NAD+ in aging biology",
+        "abstract": "Sirtuins are NAD+-dependent enzymes involved in aging pathways. Caloric restriction activates sirtuins. NAD+ precursors hypothesized to mimic restriction benefits. Theory popular but unproven in humans.",
+        "source": "Molecular Biology of Aging, 2017"
+      }
+    ],
+    "preference": "better",
+    "annotator_reasoning": "Context Better evaluates aging claims with clinical trials and realistic assessment of evidence. Context Worse discusses supplement types, research funding, and sirtuin theory without longevity outcomes."
+  }
+]
