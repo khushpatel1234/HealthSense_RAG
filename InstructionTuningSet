@@ -1,0 +1,722 @@
+[
+  {
+    "query": "Does drinking alkaline water cure cancer?",
+    "retrieved_context": [
+      {
+        "title": "Systematic review of alkaline water health claims",
+        "abstract": "No peer-reviewed evidence supports cancer-curing properties of alkaline water. Studies show temporary pH changes in urine but no systemic effects on blood pH or tumor growth.",
+        "source": "Journal of Clinical Nutrition, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to the systematic review in the Journal of Clinical Nutrition (2019), there is no peer-reviewed evidence supporting cancer-curing properties of alkaline water. The study confirms that while alkaline water may temporarily change urine pH, it has no systemic effects on blood pH or tumor growth.",
+      "sources": ["Systematic review of alkaline water health claims - Journal of Clinical Nutrition, 2019"]
+    }
+  },
+  {
+    "query": "Can vaccines cause autism in children?",
+    "retrieved_context": [
+      {
+        "title": "MMR vaccine and autism: Large cohort study",
+        "abstract": "Analysis of 657,461 children found no increased risk of autism among vaccinated children compared to unvaccinated. The discredited 1998 Wakefield study was retracted for fraud.",
+        "source": "Annals of Internal Medicine, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "The large cohort study published in Annals of Internal Medicine (2019) analyzed 657,461 children and found no increased risk of autism among vaccinated children. The original claim stemmed from a 1998 study that was retracted due to fraud.",
+      "sources": ["MMR vaccine and autism: Large cohort study - Annals of Internal Medicine, 2019"]
+    }
+  },
+  {
+    "query": "Does vitamin D deficiency lead to weakened bones?",
+    "retrieved_context": [
+      {
+        "title": "Vitamin D and bone health: Mechanisms and evidence",
+        "abstract": "Vitamin D is essential for calcium absorption and bone mineralization. Deficiency leads to rickets in children and osteomalacia in adults. Supplementation improves bone density in deficient individuals.",
+        "source": "New England Journal of Medicine, 2020"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "According to the New England Journal of Medicine (2020), vitamin D is essential for calcium absorption and bone mineralization. The evidence confirms that deficiency leads to rickets in children and osteomalacia in adults, and supplementation improves bone density in deficient individuals.",
+      "sources": ["Vitamin D and bone health: Mechanisms and evidence - New England Journal of Medicine, 2020"]
+    }
+  },
+  {
+    "query": "Can crystal healing treat chronic pain?",
+    "retrieved_context": [
+      {
+        "title": "Placebo-controlled trial of crystal therapy",
+        "abstract": "Double-blind study found no difference between real crystals and fake crystals in pain relief. Reported benefits are attributable to placebo effect and relaxation during treatment sessions.",
+        "source": "Pain Medicine Journal, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "The double-blind study in Pain Medicine Journal (2018) found no difference between real crystals and fake crystals in pain relief. Any reported benefits are attributable to placebo effect and relaxation during treatment sessions, not the crystals themselves.",
+      "sources": ["Placebo-controlled trial of crystal therapy - Pain Medicine Journal, 2018"]
+    }
+  },
+  {
+    "query": "Does regular exercise reduce cardiovascular disease risk?",
+    "retrieved_context": [
+      {
+        "title": "Physical activity and cardiovascular health: Meta-analysis",
+        "abstract": "Analysis of 33 studies with 883,372 participants shows 20-30% reduction in cardiovascular disease risk with regular moderate-intensity exercise. Benefits include improved blood pressure, lipid profiles, and vascular function.",
+        "source": "Circulation, 2021"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The meta-analysis published in Circulation (2021) analyzed 33 studies with 883,372 participants and found a 20-30% reduction in cardiovascular disease risk with regular moderate-intensity exercise. The benefits include improved blood pressure, lipid profiles, and vascular function.",
+      "sources": ["Physical activity and cardiovascular health: Meta-analysis - Circulation, 2021"]
+    }
+  },
+  {
+    "query": "Does 5G radiation cause brain tumors?",
+    "retrieved_context": [
+      {
+        "title": "Radiofrequency exposure and cancer: WHO systematic review",
+        "abstract": "WHO review of 20 years of research found no causal link between radiofrequency radiation from mobile networks and cancer. 5G frequencies are non-ionizing and cannot damage DNA.",
+        "source": "WHO Technical Report, 2022"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to the WHO Technical Report (2022), a systematic review of 20 years of research found no causal link between radiofrequency radiation from mobile networks and cancer. The report confirms that 5G frequencies are non-ionizing and cannot damage DNA.",
+      "sources": ["Radiofrequency exposure and cancer: WHO systematic review - WHO Technical Report, 2022"]
+    }
+  },
+  {
+    "query": "Can probiotics improve gut health?",
+    "retrieved_context": [
+      {
+        "title": "Probiotics for gastrointestinal health: Clinical evidence",
+        "abstract": "Systematic review shows probiotics reduce antibiotic-associated diarrhea by 42% and improve symptoms in irritable bowel syndrome. Strain-specific effects observed with Lactobacillus and Bifidobacterium species.",
+        "source": "Gastroenterology, 2020"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The systematic review in Gastroenterology (2020) demonstrates that probiotics reduce antibiotic-associated diarrhea by 42% and improve symptoms in irritable bowel syndrome. Strain-specific effects have been observed with Lactobacillus and Bifidobacterium species.",
+      "sources": ["Probiotics for gastrointestinal health: Clinical evidence - Gastroenterology, 2020"]
+    }
+  },
+  {
+    "query": "Does detox tea cleanse toxins from the body?",
+    "retrieved_context": [
+      {
+        "title": "Detoxification diets and products: Scientific evaluation",
+        "abstract": "No credible evidence supports commercial detox products. Human liver and kidneys naturally eliminate toxins. Detox teas may cause dehydration and electrolyte imbalances due to laxative effects.",
+        "source": "Journal of Human Nutrition and Dietetics, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to the Journal of Human Nutrition and Dietetics (2019), no credible evidence supports commercial detox products. The human liver and kidneys naturally eliminate toxins, and detox teas may actually cause dehydration and electrolyte imbalances due to their laxative effects.",
+      "sources": ["Detoxification diets and products: Scientific evaluation - Journal of Human Nutrition and Dietetics, 2019"]
+    }
+  },
+  {
+    "query": "Does smoking increase lung cancer risk?",
+    "retrieved_context": [
+      {
+        "title": "Tobacco smoking and lung cancer: Epidemiological evidence",
+        "abstract": "Longitudinal studies show smokers have 15-30 times higher risk of lung cancer than non-smokers. Dose-response relationship established with pack-years. Smoking accounts for 85% of lung cancer cases.",
+        "source": "The Lancet Oncology, 2021"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The Lancet Oncology (2021) reports that longitudinal studies show smokers have 15-30 times higher risk of lung cancer than non-smokers. A clear dose-response relationship has been established with pack-years, and smoking accounts for 85% of lung cancer cases.",
+      "sources": ["Tobacco smoking and lung cancer: Epidemiological evidence - The Lancet Oncology, 2021"]
+    }
+  },
+  {
+    "query": "Can magnetic bracelets relieve arthritis pain?",
+    "retrieved_context": [
+      {
+        "title": "Magnetic therapy for arthritis: Randomized controlled trial",
+        "abstract": "Three-month RCT with 194 participants found no difference between magnetic and non-magnetic bracelets in pain reduction. All groups showed equal improvement attributable to placebo response.",
+        "source": "BMJ, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "The randomized controlled trial published in BMJ (2018) with 194 participants found no difference between magnetic and non-magnetic bracelets in pain reduction over three months. All groups showed equal improvement, which is attributable to placebo response rather than magnetic effects.",
+      "sources": ["Magnetic therapy for arthritis: Randomized controlled trial - BMJ, 2018"]
+    }
+  },
+  {
+    "query": "Does colloidal silver cure infections?",
+    "retrieved_context": [
+      {
+        "title": "Colloidal silver safety and efficacy review",
+        "abstract": "No evidence supports colloidal silver for treating infections. FDA banned therapeutic marketing. Causes argyria, permanent blue-gray skin discoloration. Interferes with antibiotic absorption and thyroid medications.",
+        "source": "Clinical Toxicology, 2015"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to Clinical Toxicology (2015), no evidence supports colloidal silver for treating infections, and the FDA has banned its therapeutic marketing. The review documents that it causes argyria, a permanent blue-gray skin discoloration, and interferes with antibiotic absorption and thyroid medications.",
+      "sources": ["Colloidal silver safety and efficacy review - Clinical Toxicology, 2015"]
+    }
+  },
+  {
+    "query": "Does folic acid prevent neural tube defects?",
+    "retrieved_context": [
+      {
+        "title": "Folic acid supplementation in pregnancy: Meta-analysis",
+        "abstract": "Periconceptional folic acid supplementation reduces neural tube defects by 72%. Recommended dose 400-800 mcg daily starting before conception. Public health fortification programs dramatically reduced incidence.",
+        "source": "Journal of the American Medical Association, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The meta-analysis in the Journal of the American Medical Association (2018) shows that periconceptional folic acid supplementation reduces neural tube defects by 72%. The recommended dose is 400-800 mcg daily starting before conception, and public health fortification programs have dramatically reduced incidence.",
+      "sources": ["Folic acid supplementation in pregnancy: Meta-analysis - Journal of the American Medical Association, 2018"]
+    }
+  },
+  {
+    "query": "Can essential oils treat bacterial pneumonia?",
+    "retrieved_context": [
+      {
+        "title": "Essential oils for respiratory infections: Clinical review",
+        "abstract": "No clinical trials demonstrate efficacy for treating bacterial pneumonia. In vitro antibacterial activity requires toxic concentrations. Delays appropriate antibiotic treatment. Case reports document treatment failures.",
+        "source": "Clinical Infectious Diseases, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to Clinical Infectious Diseases (2019), no clinical trials demonstrate efficacy of essential oils for treating bacterial pneumonia. While in vitro antibacterial activity exists, it requires toxic concentrations. The review documents that relying on essential oils delays appropriate antibiotic treatment and includes case reports of treatment failures.",
+      "sources": ["Essential oils for respiratory infections: Clinical review - Clinical Infectious Diseases, 2019"]
+    }
+  },
+  {
+    "query": "Does handwashing prevent disease transmission?",
+    "retrieved_context": [
+      {
+        "title": "Hand hygiene and infection prevention: Systematic review",
+        "abstract": "Meta-analysis of 67 studies shows handwashing with soap reduces diarrheal disease by 30% and respiratory infections by 21%. Most cost-effective public health intervention. Proper technique critical for effectiveness.",
+        "source": "The Lancet Infectious Diseases, 2020"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The systematic review in The Lancet Infectious Diseases (2020) analyzed 67 studies and found that handwashing with soap reduces diarrheal disease by 30% and respiratory infections by 21%. It is identified as the most cost-effective public health intervention, with proper technique being critical for effectiveness.",
+      "sources": ["Hand hygiene and infection prevention: Systematic review - The Lancet Infectious Diseases, 2020"]
+    }
+  },
+  {
+    "query": "Does earthing reduce inflammation?",
+    "retrieved_context": [
+      {
+        "title": "Grounding claims: Critical scientific analysis",
+        "abstract": "Single pilot study claiming inflammatory reduction lacked control group and blinding, funded by earthing product company. Results not replicated. Proposed electron transfer mechanism violates physics principles.",
+        "source": "Skeptical Inquirer, 2017"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to Skeptical Inquirer (2017), the single pilot study claiming inflammatory reduction from earthing lacked a control group and blinding, and was funded by an earthing product company. The results have not been replicated, and the proposed electron transfer mechanism violates basic physics principles.",
+      "sources": ["Grounding claims: Critical scientific analysis - Skeptical Inquirer, 2017"]
+    }
+  },
+  {
+    "query": "Does meditation reduce anxiety symptoms?",
+    "retrieved_context": [
+      {
+        "title": "Mindfulness meditation for anxiety: Meta-analysis",
+        "abstract": "Analysis of 47 trials with 3,515 participants found moderate effect size for anxiety reduction. Effects comparable to first-line psychotherapy and antidepressants. Mechanisms involve attention regulation and emotional processing.",
+        "source": "JAMA Psychiatry, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The meta-analysis published in JAMA Psychiatry (2019) analyzed 47 trials with 3,515 participants and found a moderate effect size for anxiety reduction through mindfulness meditation. Effects were comparable to first-line psychotherapy and antidepressants, with mechanisms involving attention regulation and emotional processing.",
+      "sources": ["Mindfulness meditation for anxiety: Meta-analysis - JAMA Psychiatry, 2019"]
+    }
+  },
+  {
+    "query": "Can activated charcoal detoxify the liver?",
+    "retrieved_context": [
+      {
+        "title": "Activated charcoal in clinical toxicology",
+        "abstract": "Effective only for acute poisoning via gastric binding within 1-2 hours. No evidence for systemic detoxification. Does not bind to metabolic waste or circulating toxins. Limited to gastrointestinal tract.",
+        "source": "Toxicology Reports, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to Toxicology Reports (2018), activated charcoal is effective only for acute poisoning via gastric binding within 1-2 hours of ingestion. There is no evidence for systemic detoxification, and it does not bind to metabolic waste or circulating toxins. Its action is limited to the gastrointestinal tract.",
+      "sources": ["Activated charcoal in clinical toxicology - Toxicology Reports, 2018"]
+    }
+  },
+  {
+    "query": "Does high blood pressure increase stroke risk?",
+    "retrieved_context": [
+      {
+        "title": "Hypertension and cerebrovascular disease: Prospective study",
+        "abstract": "Each 20 mmHg increase in systolic BP doubles stroke risk. Hypertension accounts for 54% of strokes globally. Blood pressure reduction through medication and lifestyle modifications significantly reduces incidence.",
+        "source": "Stroke Journal, 2020"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "According to Stroke Journal (2020), each 20 mmHg increase in systolic blood pressure doubles stroke risk, and hypertension accounts for 54% of strokes globally. The study confirms that blood pressure reduction through medication and lifestyle modifications significantly reduces stroke incidence.",
+      "sources": ["Hypertension and cerebrovascular disease: Prospective study - Stroke Journal, 2020"]
+    }
+  },
+  {
+    "query": "Can homeopathy cure influenza?",
+    "retrieved_context": [
+      {
+        "title": "Homeopathy for flu: Systematic review",
+        "abstract": "Meta-analysis of 7 RCTs found no significant difference between homeopathic oscillococcinum and placebo. Homeopathic dilutions exceed Avogadro's number, meaning no molecules of original substance remain.",
+        "source": "Cochrane Database, 2015"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "The Cochrane Database systematic review (2015) analyzed 7 randomized controlled trials and found no significant difference between homeopathic oscillococcinum and placebo for influenza treatment. The review notes that homeopathic dilutions exceed Avogadro's number, meaning no molecules of the original substance remain.",
+      "sources": ["Homeopathy for flu: Systematic review - Cochrane Database, 2015"]
+    }
+  },
+  {
+    "query": "Does calcium supplementation improve bone density?",
+    "retrieved_context": [
+      {
+        "title": "Calcium and vitamin D for osteoporosis prevention",
+        "abstract": "Combined calcium and vitamin D supplementation increases bone mineral density by 1-2% and reduces fracture risk by 15-20% in elderly populations. Requires adequate vitamin D for absorption.",
+        "source": "Osteoporosis International, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "According to Osteoporosis International (2019), combined calcium and vitamin D supplementation increases bone mineral density by 1-2% and reduces fracture risk by 15-20% in elderly populations. The study emphasizes that adequate vitamin D is required for calcium absorption.",
+      "sources": ["Calcium and vitamin D for osteoporosis prevention - Osteoporosis International, 2019"]
+    }
+  },
+  {
+    "query": "Does Miracle Mineral Solution treat autism?",
+    "retrieved_context": [
+      {
+        "title": "MMS safety assessment: FDA warning",
+        "abstract": "MMS is industrial bleach (sodium chlorite). Causes severe vomiting, diarrhea, and life-threatening dehydration. No evidence for treating any medical condition. Multiple hospitalizations documented. FDA issued criminal charges.",
+        "source": "FDA Safety Communication, 2020"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to the FDA Safety Communication (2020), Miracle Mineral Solution is industrial bleach (sodium chlorite) that causes severe vomiting, diarrhea, and life-threatening dehydration. There is no evidence for treating any medical condition, and multiple hospitalizations have been documented. The FDA has issued criminal charges related to MMS.",
+      "sources": ["MMS safety assessment: FDA warning - FDA Safety Communication, 2020"]
+    }
+  },
+  {
+    "query": "Does cognitive behavioral therapy treat depression?",
+    "retrieved_context": [
+      {
+        "title": "CBT for major depressive disorder: Network meta-analysis",
+        "abstract": "Analysis of 198 trials with 15,118 participants found CBT as effective as antidepressants for moderate to severe depression. Effects sustained long-term. Combination therapy superior to either alone.",
+        "source": "The Lancet Psychiatry, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The network meta-analysis in The Lancet Psychiatry (2018) analyzed 198 trials with 15,118 participants and found cognitive behavioral therapy as effective as antidepressants for moderate to severe depression. Effects are sustained long-term, and combination therapy is superior to either treatment alone.",
+      "sources": ["CBT for major depressive disorder: Network meta-analysis - The Lancet Psychiatry, 2018"]
+    }
+  },
+  {
+    "query": "Can copper bracelets cure arthritis?",
+    "retrieved_context": [
+      {
+        "title": "Copper bracelets for rheumatoid arthritis: RCT",
+        "abstract": "Placebo-controlled study of 65 patients found no difference between copper and placebo bracelets in pain or function. Skin is effective barrier to copper absorption. Serum copper levels unchanged.",
+        "source": "PLoS ONE, 2013"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to the placebo-controlled study in PLoS ONE (2013), 65 patients showed no difference between copper and placebo bracelets in pain or function. The study found that skin is an effective barrier to copper absorption, and serum copper levels remained unchanged.",
+      "sources": ["Copper bracelets for rheumatoid arthritis: RCT - PLoS ONE, 2013"]
+    }
+  },
+  {
+    "query": "Does aspirin prevent heart attacks?",
+    "retrieved_context": [
+      {
+        "title": "Aspirin for cardiovascular disease prevention: Clinical guidelines",
+        "abstract": "Low-dose aspirin reduces myocardial infarction risk by 25-30% in high-risk patients. Benefits outweigh bleeding risk in individuals with established cardiovascular disease. Not recommended for primary prevention in low-risk populations.",
+        "source": "Circulation, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "According to clinical guidelines in Circulation (2019), low-dose aspirin reduces myocardial infarction risk by 25-30% in high-risk patients. The benefits outweigh bleeding risk in individuals with established cardiovascular disease, though it is not recommended for primary prevention in low-risk populations.",
+      "sources": ["Aspirin for cardiovascular disease prevention: Clinical guidelines - Circulation, 2019"]
+    }
+  },
+  {
+    "query": "Does drinking hot water kill coronavirus?",
+    "retrieved_context": [
+      {
+        "title": "COVID-19 myths and misconceptions: WHO fact-check",
+        "abstract": "Hot water does not kill virus in respiratory tract. Human body maintains constant 37°C regardless of beverage temperature. Stomach acid destroys virus but cannot prevent respiratory infection.",
+        "source": "WHO Myth Busters, 2020"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to WHO Myth Busters (2020), hot water does not kill coronavirus in the respiratory tract. The human body maintains a constant temperature of 37°C regardless of beverage temperature. While stomach acid destroys the virus, this cannot prevent respiratory infection.",
+      "sources": ["COVID-19 myths and misconceptions: WHO fact-check - WHO Myth Busters, 2020"]
+    }
+  },
+  {
+    "query": "Does breastfeeding provide immune benefits?",
+    "retrieved_context": [
+      {
+        "title": "Breastfeeding and infant immunity: Systematic review",
+        "abstract": "Breast milk contains antibodies, antimicrobial factors, and immune cells. Reduces respiratory infections by 72%, diarrheal disease by 64%, and otitis media by 43% in first year. Benefits dose-dependent.",
+        "source": "Pediatrics, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The systematic review in Pediatrics (2018) documents that breast milk contains antibodies, antimicrobial factors, and immune cells. Breastfeeding reduces respiratory infections by 72%, diarrheal disease by 64%, and otitis media by 43% in the first year, with benefits being dose-dependent.",
+      "sources": ["Breastfeeding and infant immunity: Systematic review - Pediatrics, 2018"]
+    }
+  },
+  {
+    "query": "Can sound frequencies heal DNA damage?",
+    "retrieved_context": [
+      {
+        "title": "Sound healing claims: Scientific evaluation",
+        "abstract": "No mechanism exists for audible sound to alter molecular DNA structure. Proposed frequencies (432Hz, 528Hz) have no special properties. Claims contradict physics and molecular biology. No peer-reviewed evidence.",
+        "source": "Skeptical Medicine Review, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to the Skeptical Medicine Review (2019), no mechanism exists for audible sound to alter molecular DNA structure. The proposed healing frequencies (432Hz, 528Hz) have no special properties, and the claims contradict physics and molecular biology. There is no peer-reviewed evidence supporting these claims.",
+      "sources": ["Sound healing claims: Scientific evaluation - Skeptical Medicine Review, 2019"]
+    }
+  },
+  {
+    "query": "Does sunscreen prevent skin cancer?",
+    "retrieved_context": [
+      {
+        "title": "Sunscreen use and melanoma prevention: Meta-analysis",
+        "abstract": "Regular broad-spectrum sunscreen use reduces melanoma risk by 50-73%. SPF 30+ blocks 97% of UVB rays. Reduces squamous cell carcinoma by 40%. Must be applied adequately and reapplied every 2 hours.",
+        "source": "Journal of Clinical Oncology, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The meta-analysis in Journal of Clinical Oncology (2019) shows that regular broad-spectrum sunscreen use reduces melanoma risk by 50-73% and squamous cell carcinoma by 40%. SPF 30+ blocks 97% of UVB rays, but must be applied adequately and reapplied every 2 hours for effectiveness.",
+      "sources": ["Sunscreen use and melanoma prevention: Meta-analysis - Journal of Clinical Oncology, 2019"]
+    }
+  },
+  {
+    "query": "Can Reiki energy healing cure cancer?",
+    "retrieved_context": [
+      {
+        "title": "Reiki for cancer treatment: Systematic review",
+        "abstract": "No credible evidence for energy fields that practitioners claim to manipulate. Controlled studies show no effect beyond placebo. Benefits from relaxation and therapeutic attention, not specific technique.",
+        "source": "BMJ Evidence-Based Medicine, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to BMJ Evidence-Based Medicine (2018), there is no credible evidence for the energy fields that Reiki practitioners claim to manipulate. Controlled studies show no effect beyond placebo, with benefits coming from relaxation and therapeutic attention rather than the specific technique.",
+      "sources": ["Reiki for cancer treatment: Systematic review - BMJ Evidence-Based Medicine, 2018"]
+    }
+  },
+  {
+    "query": "Does fluoride in water reduce cavities?",
+    "retrieved_context": [
+      {
+        "title": "Water fluoridation and dental health: Cochrane review",
+        "abstract": "Community water fluoridation reduces tooth decay by 26% in children and 27% in adults. Prevents 40% of cavities when exposure begins before age 8. One of most effective public health interventions.",
+        "source": "Cochrane Database of Systematic Reviews, 2015"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The Cochrane review (2015) found that community water fluoridation reduces tooth decay by 26% in children and 27% in adults. It prevents 40% of cavities when exposure begins before age 8, making it one of the most effective public health interventions.",
+      "sources": ["Water fluoridation and dental health: Cochrane review - Cochrane Database of Systematic Reviews, 2015"]
+    }
+  },
+  {
+    "query": "Does coffee cause dehydration?",
+    "retrieved_context": [
+      {
+        "title": "Caffeine and hydration status: Clinical trial",
+        "abstract": "Study of 50 regular coffee drinkers found no difference in hydration markers between coffee and water consumption. Caffeine's mild diuretic effect offset by fluid volume in beverages. Coffee contributes to daily hydration.",
+        "source": "PLOS ONE, 2014"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "According to the clinical trial in PLOS ONE (2014), a study of 50 regular coffee drinkers found no difference in hydration markers between coffee and water consumption. While caffeine has a mild diuretic effect, this is offset by the fluid volume in beverages, and coffee contributes to daily hydration.",
+      "sources": ["Caffeine and hydration status: Clinical trial - PLOS ONE, 2014"]
+    }
+  },
+  {
+    "query": "Can alkaline diet cure disease?",
+    "retrieved_context": [
+      {
+        "title": "Alkaline diet health claims: Evidence review",
+        "abstract": "Human blood pH tightly regulated at 7.35-7.45 regardless of diet. No evidence alkaline foods prevent or cure disease. Confusion between urine pH (which changes) and blood pH (which doesn't).",
+        "source": "Journal of Environmental and Public Health, 2012"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to the Journal of Environmental and Public Health (2012), human blood pH is tightly regulated at 7.35-7.45 regardless of diet. There is no evidence that alkaline foods prevent or cure disease. The review notes confusion between urine pH (which changes with diet) and blood pH (which does not).",
+      "sources": ["Alkaline diet health claims: Evidence review - Journal of Environmental and Public Health, 2012"]
+    }
+  },
+  {
+    "query": "Does intermittent fasting improve metabolic health?",
+    "retrieved_context": [
+      {
+        "title": "Intermittent fasting and metabolism: Systematic review",
+        "abstract": "Meta-analysis of 27 trials found IF improves insulin sensitivity, reduces inflammation markers, and promotes weight loss. Effects comparable to continuous calorie restriction. Adherence higher than traditional dieting.",
+        "source": "Obesity Reviews, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The systematic review in Obesity Reviews (2018) analyzed 27 trials and found that intermittent fasting improves insulin sensitivity, reduces inflammation markers, and promotes weight loss. Effects are comparable to continuous calorie restriction, with adherence rates higher than traditional dieting.",
+      "sources": ["Intermittent fasting and metabolism: Systematic review - Obesity Reviews, 2018"]
+    }
+  },
+  {
+    "query": "Can foot detox pads remove toxins?",
+    "retrieved_context": [
+      {
+        "title": "Detox foot pads: Consumer laboratory analysis",
+        "abstract": "Color change due to moisture reacting with pad ingredients, not toxin extraction. Chemical analysis found no toxins in used pads. Skin does not excrete heavy metals or metabolic waste through feet.",
+        "source": "Journal of Environmental Health Science, 2016"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to the Journal of Environmental Health Science (2016), the color change in detox foot pads is due to moisture reacting with pad ingredients, not toxin extraction. Chemical analysis found no toxins in used pads, and skin does not excrete heavy metals or metabolic waste through the feet.",
+      "sources": ["Detox foot pads: Consumer laboratory analysis - Journal of Environmental Health Science, 2016"]
+    }
+  },
+  {
+    "query": "Does omega-3 supplementation benefit heart health?",
+    "retrieved_context": [
+      {
+        "title": "Omega-3 fatty acids for cardiovascular disease: Meta-analysis",
+        "abstract": "Analysis of 13 trials with 127,477 participants found omega-3 supplementation reduces cardiovascular death by 8% and heart attacks by 7%. Benefits most pronounced in those with low baseline intake.",
+        "source": "JAMA Cardiology, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The meta-analysis in JAMA Cardiology (2019) analyzed 13 trials with 127,477 participants and found that omega-3 supplementation reduces cardiovascular death by 8% and heart attacks by 7%. Benefits are most pronounced in individuals with low baseline omega-3 intake.",
+      "sources": ["Omega-3 fatty acids for cardiovascular disease: Meta-analysis - JAMA Cardiology, 2019"]
+    }
+  },
+  {
+    "query": "Does oil pulling whiten teeth?",
+    "retrieved_context": [
+      {
+        "title": "Oil pulling for oral health: Randomized trial",
+        "abstract": "4-week study of 60 participants found no teeth whitening effect. Some reduction in plaque similar to chlorhexidine but requires 20 minutes daily. Not substitute for brushing and flossing.",
+        "source": "Nigerian Medical Journal, 2015"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to the Nigerian Medical Journal (2015), a 4-week study of 60 participants found no teeth whitening effect from oil pulling. While there was some plaque reduction similar to chlorhexidine, it requires 20 minutes daily and is not a substitute for brushing and flossing.",
+      "sources": ["Oil pulling for oral health: Randomized trial - Nigerian Medical Journal, 2015"]
+    }
+  },
+  {
+    "query": "Does air pollution increase asthma risk?",
+    "retrieved_context": [
+      {
+        "title": "Air pollution and respiratory disease: Longitudinal study",
+        "abstract": "10-year study of 4,000 children found 40% increased asthma incidence with elevated PM2.5 and NO2 exposure. Traffic-related pollution strongly associated with childhood asthma development and exacerbations.",
+        "source": "American Journal of Respiratory and Critical Care Medicine, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "According to the American Journal of Respiratory and Critical Care Medicine (2019), a 10-year study of 4,000 children found 40% increased asthma incidence with elevated PM2.5 and NO2 exposure. Traffic-related pollution is strongly associated with both childhood asthma development and exacerbations.",
+      "sources": ["Air pollution and respiratory disease: Longitudinal study - American Journal of Respiratory and Critical Care Medicine, 2019"]
+    }
+  },
+  {
+    "query": "Can crystal energy balance chakras?",
+    "retrieved_context": [
+      {
+        "title": "Chakras and energy medicine: Scientific assessment",
+        "abstract": "No anatomical structures correspond to chakras. Proposed energy fields unmeasurable and violate physics. Crystal properties do not interact with biological systems beyond placebo. No peer-reviewed evidence.",
+        "source": "Skeptical Inquirer, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to Skeptical Inquirer (2018), no anatomical structures correspond to chakras, and the proposed energy fields are unmeasurable and violate physics. Crystal properties do not interact with biological systems beyond placebo effects, and there is no peer-reviewed evidence supporting these claims.",
+      "sources": ["Chakras and energy medicine: Scientific assessment - Skeptical Inquirer, 2018"]
+    }
+  },
+  {
+    "query": "Does sleep improve memory consolidation?",
+    "retrieved_context": [
+      {
+        "title": "Sleep and memory: Neuroimaging study",
+        "abstract": "Sleep deprivation impairs hippocampal function and reduces memory consolidation by 40%. REM and slow-wave sleep critical for different memory types. Adequate sleep enhances learning and problem-solving.",
+        "source": "Nature Neuroscience, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "According to Nature Neuroscience (2019), sleep deprivation impairs hippocampal function and reduces memory consolidation by 40%. The study found that REM and slow-wave sleep are critical for different memory types, and adequate sleep enhances learning and problem-solving abilities.",
+      "sources": ["Sleep and memory: Neuroimaging study - Nature Neuroscience, 2019"]
+    }
+  },
+  {
+    "query": "Can apple cider vinegar cure diabetes?",
+    "retrieved_context": [
+      {
+        "title": "Apple cider vinegar and blood sugar: Clinical trial",
+        "abstract": "Small study found modest improvement in fasting glucose but not clinically significant. Effect attributed to delayed gastric emptying, not metabolic changes. No evidence for curing diabetes. Not substitute for medication.",
+        "source": "Diabetes Care, 2014"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to Diabetes Care (2014), a small study found modest improvement in fasting glucose with apple cider vinegar, but the effect was not clinically significant. The improvement is attributed to delayed gastric emptying rather than metabolic changes, and there is no evidence for curing diabetes or substituting medication.",
+      "sources": ["Apple cider vinegar and blood sugar: Clinical trial - Diabetes Care, 2014"]
+    }
+  },
+  {
+    "query": "Does physical therapy improve post-stroke mobility?",
+    "retrieved_context": [
+      {
+        "title": "Early mobilization after stroke: Meta-analysis",
+        "abstract": "Intensive physical therapy within 24-48 hours improves functional outcomes by 30%. Reduces disability, enhances motor recovery, and decreases hospital stay. Task-specific training most effective approach.",
+        "source": "Stroke Rehabilitation Journal, 2020"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The meta-analysis in Stroke Rehabilitation Journal (2020) found that intensive physical therapy within 24-48 hours after stroke improves functional outcomes by 30%. It reduces disability, enhances motor recovery, decreases hospital stay, with task-specific training being the most effective approach.",
+      "sources": ["Early mobilization after stroke: Meta-analysis - Stroke Rehabilitation Journal, 2020"]
+    }
+  },
+  {
+    "query": "Does jade roller reduce facial wrinkles?",
+    "retrieved_context": [
+      {
+        "title": "Facial massage tools: Dermatological review",
+        "abstract": "No evidence jade rollers reduce wrinkles or improve skin elasticity. Temporary reduction in puffiness due to lymphatic drainage and cold temperature. Does not penetrate deep enough to affect collagen.",
+        "source": "Journal of Cosmetic Dermatology, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to the Journal of Cosmetic Dermatology (2019), there is no evidence that jade rollers reduce wrinkles or improve skin elasticity. Any temporary reduction in puffiness is due to lymphatic drainage and cold temperature, but the tool does not penetrate deep enough to affect collagen structure.",
+      "sources": ["Facial massage tools: Dermatological review - Journal of Cosmetic Dermatology, 2019"]
+    }
+  },
+  {
+    "query": "Does helmet use reduce cycling head injuries?",
+    "retrieved_context": [
+      {
+        "title": "Bicycle helmets and traumatic brain injury: Case-control study",
+        "abstract": "Helmet use reduces head injury risk by 69%, brain injury by 65%, and severe brain injury by 74%. Protective effect consistent across age groups. Laws requiring helmets increase usage and reduce injuries.",
+        "source": "American Journal of Public Health, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "According to the American Journal of Public Health (2018), bicycle helmet use reduces head injury risk by 69%, brain injury by 65%, and severe brain injury by 74%. The protective effect is consistent across age groups, and laws requiring helmets increase usage and reduce injuries.",
+      "sources": ["Bicycle helmets and traumatic brain injury: Case-control study - American Journal of Public Health, 2018"]
+    }
+  },
+  {
+    "query": "Can bee venom treat Lyme disease?",
+    "retrieved_context": [
+      {
+        "title": "Bee venom therapy for Lyme: Evidence assessment",
+        "abstract": "No controlled clinical trials support efficacy. Risk of severe allergic reactions including anaphylaxis. Delays appropriate antibiotic treatment. Case reports document treatment failures and adverse events.",
+        "source": "Clinical Infectious Diseases, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to Clinical Infectious Diseases (2018), no controlled clinical trials support the efficacy of bee venom therapy for Lyme disease. There is risk of severe allergic reactions including anaphylaxis, and using bee venom delays appropriate antibiotic treatment. Case reports document treatment failures and adverse events.",
+      "sources": ["Bee venom therapy for Lyme: Evidence assessment - Clinical Infectious Diseases, 2018"]
+    }
+  },
+  {
+    "query": "Does statin therapy lower cholesterol?",
+    "retrieved_context": [
+      {
+        "title": "Statins for cholesterol reduction: Clinical guidelines",
+        "abstract": "Statins reduce LDL cholesterol by 30-50% and cardiovascular events by 25-35%. Number needed to treat is 40 for primary prevention. Benefits well-established over 30 years. Side effects manageable in most patients.",
+        "source": "Journal of the American College of Cardiology, 2019"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "According to clinical guidelines in the Journal of the American College of Cardiology (2019), statins reduce LDL cholesterol by 30-50% and cardiovascular events by 25-35%. The number needed to treat is 40 for primary prevention, with benefits well-established over 30 years and side effects manageable in most patients.",
+      "sources": ["Statins for cholesterol reduction: Clinical guidelines - Journal of the American College of Cardiology, 2019"]
+    }
+  },
+  {
+    "query": "Does drinking celery juice cleanse the liver?",
+    "retrieved_context": [
+      {
+        "title": "Liver detoxification myths: Hepatology review",
+        "abstract": "Liver continuously detoxifies through enzymatic pathways. No food enhances this process. Celery juice provides nutrients but no unique detox properties. Healthy liver doesn't need cleansing.",
+        "source": "Hepatology, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to Hepatology (2018), the liver continuously detoxifies blood through enzymatic pathways, and no food enhances this process. While celery juice provides nutrients, it has no unique detoxification properties, and a healthy liver does not need cleansing.",
+      "sources": ["Liver detoxification myths: Hepatology review - Hepatology, 2018"]
+    }
+  },
+  {
+    "query": "Does resistance training increase bone density?",
+    "retrieved_context": [
+      {
+        "title": "Resistance exercise and bone health: Meta-analysis",
+        "abstract": "Progressive resistance training increases lumbar spine BMD by 2-3% and femoral neck by 1-2% in postmenopausal women. Reduces fracture risk. Weight-bearing exercise essential for bone health.",
+        "source": "Sports Medicine, 2018"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Science-based",
+      "reasoning": "The meta-analysis in Sports Medicine (2018) found that progressive resistance training increases lumbar spine bone mineral density by 2-3% and femoral neck BMD by 1-2% in postmenopausal women. This reduces fracture risk, with weight-bearing exercise being essential for bone health.",
+      "sources": ["Resistance exercise and bone health: Meta-analysis - Sports Medicine, 2018"]
+    }
+  },
+  {
+    "query": "Can infrared sauna eliminate toxins through sweat?",
+    "retrieved_context": [
+      {
+        "title": "Sauna and detoxification: Evidence review",
+        "abstract": "While trace metals present in sweat, amounts negligible compared to urinary excretion. No evidence for meaningful toxin elimination. Liver and kidneys primary detoxification organs. Sauna provides relaxation benefits only.",
+        "source": "Journal of Environmental and Public Health, 2012"
+      }
+    ],
+    "ideal_response": {
+      "classification": "Pseudoscience",
+      "reasoning": "According to the Journal of Environmental and Public Health (2012), while trace metals are present in sweat, the amounts are negligible compared to urinary excretion. There is no evidence for meaningful toxin elimination through sauna use. The liver and kidneys are the primary detoxification organs, and saunas provide only relaxation benefits.",
+      "sources": ["Sauna and detoxification: Evidence review - Journal of Environmental and Public Health, 2012"]
+    }
+  }
+]
